@@ -172,7 +172,7 @@ def main():
     Main function to run the tweet analysis agent
     """
     # Set your Gemini API key here
-    API_KEY = "AIzaSyAoISlGvddTaSd1ZO61mYlDNlWphcD2tt0"  # Replace with your actual API key
+    API_KEY = ""  # Replace with your actual API key
     
     # Initialize the agent
     agent = TweetAnalysisAgent(API_KEY)
