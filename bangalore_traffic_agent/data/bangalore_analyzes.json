@@ -1,0 +1,1677 @@
+{
+  "analysis_metadata": {
+    "timestamp": "generated",
+    "total_places_analyzed": 7,
+    "data_sources": {
+      "traffic_file": "bangalore_traffic.json",
+      "news_file": "bangalore_news.json",
+      "traffic_locations_found": 0,
+      "news_locations_found": 7
+    }
+  },
+  "places_analysis": {
+    "airport road": {
+      "place_name": "Airport Road",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 1
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 1,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "sources": [
+          "Hindustan Times"
+        ],
+        "recent_articles": [
+          {
+            "title": "Bengaluru: Traffic curbs on Old Airport Road, Varthur Road for VVIP visit today. Check timings - Hindustan Times",
+            "about": "Bengaluru: Traffic curbs on Old Airport Road, Varthur Road for VVIP visit today. Check timings  Hindustan Times",
+            "publisher": "Hindustan Times",
+            "date": "Fri, 07 Mar 2025 08:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQmpaUW5XbE1EMTVoZTdHNzN1eHNtd0hlU1ZJMEUxOTJRY2FwRVRuMXJHR0dxOXJKcUppVXY3T3VHWVEwSHVkUWNVZDRraXRTNzJTOFIwR0xDTUItVEs1dWk4RVlxSVE3UHM3Rl9TcmJMS0gxbjc3X1RoUVJkdm15X0VpeURfd1pLeUFsZXJiNDVhS3Q4cldqWVQ2aUlCdGdyTGtVUzBCdW54WU5DeWVycDNsOTlsY2Eyd3U3RHRLNFRKTnVlMWlKd2tJRUVRMnRNMHRJRElqSDhvelc5SFdBLWdrLVNHV0hnR0lZUUxELWI2TUg3aXJTZQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 89
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Airport Road",
+          "articles": [
+            {
+              "title": "Bengaluru: Traffic curbs on Old Airport Road, Varthur Road for VVIP visit today. Check timings - Hindustan Times",
+              "about": "Bengaluru: Traffic curbs on Old Airport Road, Varthur Road for VVIP visit today. Check timings  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Fri, 07 Mar 2025 08:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQmpaUW5XbE1EMTVoZTdHNzN1eHNtd0hlU1ZJMEUxOTJRY2FwRVRuMXJHR0dxOXJKcUppVXY3T3VHWVEwSHVkUWNVZDRraXRTNzJTOFIwR0xDTUItVEs1dWk4RVlxSVE3UHM3Rl9TcmJMS0gxbjc3X1RoUVJkdm15X0VpeURfd1pLeUFsZXJiNDVhS3Q4cldqWVQ2aUlCdGdyTGtVUzBCdW54WU5DeWVycDNsOTlsY2Eyd3U3RHRLNFRKTnVlMWlKd2tJRUVRMnRNMHRJRElqSDhvelc5SFdBLWdrLVNHV0hnR0lZUUxELWI2TUg3aXJTZQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 89
+            }
+          ],
+          "article_count": 1,
+          "sentiment_scores": [
+            "negative"
+          ],
+          "sources": [
+            "Hindustan Times"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+          }
+        }
+      }
+    },
+    "bangalore_general": {
+      "place_name": "Bangalore_General",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 95
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 95,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 1,
+          "negative": 71,
+          "neutral": 23
+        },
+        "sources": [
+          "Deccan Herald",
+          "Indian Startup News",
+          "India Today",
+          "The Times of India",
+          "India TV News",
+          "Bangalore Mirror",
+          "The Economic Times",
+          "Mint",
+          "Tribune India",
+          "MSN",
+          "BW Businessworld",
+          "Mathrubhumi English",
+          "Curly Tales",
+          "Storyboard18",
+          "NDTV",
+          "Telegraph India",
+          "Hindustan Times",
+          "Moneycontrol",
+          "The Logical Indian",
+          "Business Standard",
+          "The Hindu",
+          "News18",
+          "financialexpress.com",
+          "The Indian Express",
+          "Team-BHP",
+          "Times Now"
+        ],
+        "recent_articles": [
+          {
+            "title": "‘Bengaluru traffic will improve by 30% in a year’: EaseMyTrip co-founder after meeting city officials | Trending - Hindustan Times - Hindustan Times",
+            "about": "‘Bengaluru traffic will improve by 30% in a year’: EaseMyTrip co-founder after meeting city officials | Trending - Hindustan Times  Hindustan Times",
+            "publisher": "Hindustan Times",
+            "date": "Thu, 24 Jul 2025 06:24:14 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQV92REROUlcwR2J3TFBYa1VVVWZDTFBwSkVsNXZOVTZvWnkwSWI2X1pJNXJ6ZXBqQU5MNzZ0RU1xQXk5TXpoem9TbGhFX3c2M1htU2xSTU9lSUZqQlFyMVczQi16eGRTbWdxLXBJeGhIUHVMU1gyQkFOLTNvRTJVN2VEcGJNRFpZeTlzUEpXMWpoWmxhbUFoQXRldHpLTTNZVDVSa0xrelo3RFJUbFBod3d4NFFSOVQ4cUdGMURrX3NmczIzTE90bmNHNkxLT2FoV1NXWU9IVC1SZ09aZ1YyWEZtOEY4N0FSWjJ2ZWpDVdIB9AFBVV95cUxOZjRib2wwNjd0bF9vdjNXMUsyTTFfTG1EYkk2a19GZTRnZFpqeHdUZkw2NlZic1JrQVNJV2xET1VpTV9yMmtFTjlkR05TRE43ZEk5dTdzcF9uUFVUel9xZUZRUGRtLU9xTVZpVVhLLWwwV0l5TDhPdm85R0htMWNYMk9XS280Zms3VmFtRzBwR2dHTFduRm1Cam94T1J5ZzBOMUFqZW5pUFA1dDlBaHhndG1aTmxJY0IyU3B2MHB1YmNUUmJSYjAtTVlrdk5UeWxYTi1IX2wzaHJVSzVZLTMtV0E4V08tbDlwc2FsNFBSRnNxcEQ4?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "neutral",
+            "article_index": 0
+          },
+          {
+            "title": "Easemytrip Co-Founder Says Bangalore Traffic Will Improve By 25-30%, Shares Update On Project - NDTV",
+            "about": "Easemytrip Co-Founder Says Bangalore Traffic Will Improve By 25-30%, Shares Update On Project  NDTV",
+            "publisher": "NDTV",
+            "date": "Thu, 24 Jul 2025 19:00:28 GMT",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5RWVqd2xaQThSb2hvVld3X2EtZFgtY3k2S3YzcXc5YkJhQjFRa1Ryb3BFQVhjWXRGVmZ2eXV0MkdQLVp1cFl6dVBVN2prMlFhOUNaM2FWdllYRDZuN0pVUmJXUEI1Z0p6VXNvd0JudVprMTVmSUtuelBXLXlRdzRsR2lvR2hTVDdHZ1c3Z0tDM0tCVmlVbWl4b2R4bFQ4V3MtTGVlT1ExclNGZVZMX2s5MTB3Y25jY1NrYnRONnhTeGo1QjZF0gHPAUFVX3lxTE1pTHhZUUViN0ZOMElNNzZvZXY5eXdYQkx0N1BLSjFQYmlvWGR1MHl0OXNlQUctcHFTRWZvYWU5WVZ4T1FUUGhNdS1NeGFSeDJaQXhtOXVsRVJXREI4SkZmd0l6UnZGTWV1cTZTR01hdDVjeVJGdHhRZTN4dFRfTkRPUEJXODdkVmR5Y0ZwekpPampvYVRoU0Rkb3U0UVBFdVRQbWZhd090ZWlqZlhLeXhZdmVGR1R0VFpqQWU5NmRwdWpzdmRpWnRLdGpKamMycw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "neutral",
+            "article_index": 1
+          },
+          {
+            "title": "Bengaluru to get ‘WFH Wednesdays’? Officials mull options to untangle traffic chaos - Mint",
+            "about": "Bengaluru to get ‘WFH Wednesdays’? Officials mull options to untangle traffic chaos  Mint",
+            "publisher": "Mint",
+            "date": "Thu, 24 Jul 2025 03:33:20 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDBoTWlCMjZzTmFwQUdqZklnemZiR2pLa1JOVkc2SkkyN1ppaUtvM1U5YmpDVzQ5MnBVdC16X21uazRpOFU0VUZENEl1WThQbV9EckV1VEktS0lUMm5ENkhjWmVwQzZGRlYyQUcyNVJ1Y29ISzloZnkzdFhBX3hKNWxwZDJPR1hHVDNjSkFCWGVoeXd1UlVPbW9rc09KVUNsRVBOSTBCZ0pPYzd3eUhJZy1NUTZBOGJnUFR4V2RfSTdMNlhEVUM0NkJIZml2cnlNSEHSAdcBQVVfeXFMUExqQk5FY1Q5ZG1oRnB3cmFKWWktOWtDMmtRbjd1WHpOUExWT09xdHE5WlpCMHZXZlhHLWxENTJDdmI5LWlKTkt2b3V4aG1wek9mUklNbU5zX3c4V2h6OU00bHozcGl0VWV3U1FFdEFfU1hScU94NnM2VlNMVktEcUdSY2VQaVdrNE9rTWMweUtuMl9nZ0duSnFVNzFiUmJ6ZGhFVkw2czRmTTZoTHJ4NWthNGZPTktXZ0MtdTJSbjYyNEtkcUw1RVc2UlZ3M2JDS2JCb05Kd3c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 2
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Bangalore_General",
+          "articles": [
+            {
+              "title": "‘Bengaluru traffic will improve by 30% in a year’: EaseMyTrip co-founder after meeting city officials | Trending - Hindustan Times - Hindustan Times",
+              "about": "‘Bengaluru traffic will improve by 30% in a year’: EaseMyTrip co-founder after meeting city officials | Trending - Hindustan Times  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Thu, 24 Jul 2025 06:24:14 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQV92REROUlcwR2J3TFBYa1VVVWZDTFBwSkVsNXZOVTZvWnkwSWI2X1pJNXJ6ZXBqQU5MNzZ0RU1xQXk5TXpoem9TbGhFX3c2M1htU2xSTU9lSUZqQlFyMVczQi16eGRTbWdxLXBJeGhIUHVMU1gyQkFOLTNvRTJVN2VEcGJNRFpZeTlzUEpXMWpoWmxhbUFoQXRldHpLTTNZVDVSa0xrelo3RFJUbFBod3d4NFFSOVQ4cUdGMURrX3NmczIzTE90bmNHNkxLT2FoV1NXWU9IVC1SZ09aZ1YyWEZtOEY4N0FSWjJ2ZWpDVdIB9AFBVV95cUxOZjRib2wwNjd0bF9vdjNXMUsyTTFfTG1EYkk2a19GZTRnZFpqeHdUZkw2NlZic1JrQVNJV2xET1VpTV9yMmtFTjlkR05TRE43ZEk5dTdzcF9uUFVUel9xZUZRUGRtLU9xTVZpVVhLLWwwV0l5TDhPdm85R0htMWNYMk9XS280Zms3VmFtRzBwR2dHTFduRm1Cam94T1J5ZzBOMUFqZW5pUFA1dDlBaHhndG1aTmxJY0IyU3B2MHB1YmNUUmJSYjAtTVlrdk5UeWxYTi1IX2wzaHJVSzVZLTMtV0E4V08tbDlwc2FsNFBSRnNxcEQ4?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 0
+            },
+            {
+              "title": "Easemytrip Co-Founder Says Bangalore Traffic Will Improve By 25-30%, Shares Update On Project - NDTV",
+              "about": "Easemytrip Co-Founder Says Bangalore Traffic Will Improve By 25-30%, Shares Update On Project  NDTV",
+              "publisher": "NDTV",
+              "date": "Thu, 24 Jul 2025 19:00:28 GMT",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5RWVqd2xaQThSb2hvVld3X2EtZFgtY3k2S3YzcXc5YkJhQjFRa1Ryb3BFQVhjWXRGVmZ2eXV0MkdQLVp1cFl6dVBVN2prMlFhOUNaM2FWdllYRDZuN0pVUmJXUEI1Z0p6VXNvd0JudVprMTVmSUtuelBXLXlRdzRsR2lvR2hTVDdHZ1c3Z0tDM0tCVmlVbWl4b2R4bFQ4V3MtTGVlT1ExclNGZVZMX2s5MTB3Y25jY1NrYnRONnhTeGo1QjZF0gHPAUFVX3lxTE1pTHhZUUViN0ZOMElNNzZvZXY5eXdYQkx0N1BLSjFQYmlvWGR1MHl0OXNlQUctcHFTRWZvYWU5WVZ4T1FUUGhNdS1NeGFSeDJaQXhtOXVsRVJXREI4SkZmd0l6UnZGTWV1cTZTR01hdDVjeVJGdHhRZTN4dFRfTkRPUEJXODdkVmR5Y0ZwekpPampvYVRoU0Rkb3U0UVBFdVRQbWZhd090ZWlqZlhLeXhZdmVGR1R0VFpqQWU5NmRwdWpzdmRpWnRLdGpKamMycw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 1
+            },
+            {
+              "title": "Bengaluru to get ‘WFH Wednesdays’? Officials mull options to untangle traffic chaos - Mint",
+              "about": "Bengaluru to get ‘WFH Wednesdays’? Officials mull options to untangle traffic chaos  Mint",
+              "publisher": "Mint",
+              "date": "Thu, 24 Jul 2025 03:33:20 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDBoTWlCMjZzTmFwQUdqZklnemZiR2pLa1JOVkc2SkkyN1ppaUtvM1U5YmpDVzQ5MnBVdC16X21uazRpOFU0VUZENEl1WThQbV9EckV1VEktS0lUMm5ENkhjWmVwQzZGRlYyQUcyNVJ1Y29ISzloZnkzdFhBX3hKNWxwZDJPR1hHVDNjSkFCWGVoeXd1UlVPbW9rc09KVUNsRVBOSTBCZ0pPYzd3eUhJZy1NUTZBOGJnUFR4V2RfSTdMNlhEVUM0NkJIZml2cnlNSEHSAdcBQVVfeXFMUExqQk5FY1Q5ZG1oRnB3cmFKWWktOWtDMmtRbjd1WHpOUExWT09xdHE5WlpCMHZXZlhHLWxENTJDdmI5LWlKTkt2b3V4aG1wek9mUklNbU5zX3c4V2h6OU00bHozcGl0VWV3U1FFdEFfU1hScU94NnM2VlNMVktEcUdSY2VQaVdrNE9rTWMweUtuMl9nZ0duSnFVNzFiUmJ6ZGhFVkw2czRmTTZoTHJ4NWthNGZPTktXZ0MtdTJSbjYyNEtkcUw1RVc2UlZ3M2JDS2JCb05Kd3c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 2
+            },
+            {
+              "title": "EaseMyTrip co-founder Prashant Pitti vows to cut Bengaluru traffic by 30% in one year - The Indian Express",
+              "about": "EaseMyTrip co-founder Prashant Pitti vows to cut Bengaluru traffic by 30% in one year  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Thu, 24 Jul 2025 12:31:08 GMT",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUp6UWNreFVMUHZxVnlPNnhUTXpPMm0wTkJzc3A4MVZpUVhiOWhrajl0M1ptanFxNmI2Z2tMMDlRcVg0YnZwU1hhR3k5WE8wS0RDWnB1c0stc3YtS1dVNkhBX1dfTkhBelJhVFNhX2VXX3NNZS00NWpkdHZTejZ0MkE2bDg1djhXVk1SdDBvVnkzRFYtUGlCWUlxUS00UlNDWFJTZWtER0g3OTNyLUhGcUhiT24yOEJ3LUtMN18zLVB2NElOMUHSAcwBQVVfeXFMTUVLVTlBY2l5bjZja2ZxNGhiWXhKZl9zTTJaNUppaFpMTUs1R0I3MFF4THAyelRIMjRoWEtSX2kyTmdmTTN0MzVOZ05RQ3Q2R0E5bUl1MkhsdWpSU1hPd25lQ3ZNc1A5VnJCTGxCaU94N0VoS0c4cGQ1TlB2ODNTVzM0dlRFdnlTSjRmYjBzSlUtcTIta3ZPOXVSVTgtSUE4RENxQ1BaZlN4S2pMbzBtTnA3RC1Eal9NTlRwdER5LTRmbUFKQmdqd1JpZVFP?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 3
+            },
+            {
+              "title": "'Work From Home On Wednesdays': Bengaluru Traffic Police’s Pitch To IT Firms To Beat Gridlocks - News18",
+              "about": "'Work From Home On Wednesdays': Bengaluru Traffic Police’s Pitch To IT Firms To Beat Gridlocks  News18",
+              "publisher": "News18",
+              "date": "Sat, 26 Jul 2025 11:28:54 GMT",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWkExR1BnZE9kbnd4TXl3R1VmWkNHX0p1Mlg0QjFWS2pRSHhCZkF0a1RPR2tyZ1FXS29mRXl3SC1VTktWUU03VFJpeE13ejR1N3FGUmNNTk5QZkc2aWdKTDBHMXJXTlVIU0EzRV9DeDhIUzhpOU9IODdwZTBsX2FuOWFST0puR3pZV252ZW12OWs2cGVXYmx6bGYxV2xLcEFCc2xXS05Mdjg5dWlaZlVUeFlOYWRFN043MUZPRzRYbTFSRml5SFNYeWN6b0E3Z9IB0wFBVV95cUxPVzdoQTdpSlRvTnk0czFsREVoZDRCWW1yZ2tzQmo1T2lCVWhNZnROdmZEcmJRZVpJMWdNUUZsRWdaTVNxcmtJQWtURWplbF9xbWFadVR4N0NJTmU3dTdLUmlEYlFBa3RUQk53R1lneUNwZDEzLUhGWVZJcFQ3V19rTUwxRlVXdkxvSkk5SjlIZ3ZRendNYTBROFVMS1oweHV3djB0MDVmTVFMVUpPVXd4dWRLYkxIbmc5RW5wMnlSTjkxY0VPZXVKdUpiUTZvdVJjZE9v?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 4
+            },
+            {
+              "title": "'She reached Dubai, I am still in traffic': Bengaluru woman's viral post on city's commute woes sparks online frenzy - MSN",
+              "about": "'She reached Dubai, I am still in traffic': Bengaluru woman's viral post on city's commute woes sparks online frenzy  MSN",
+              "publisher": "MSN",
+              "date": "Mon, 21 Jul 2025 13:05:40 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeDA3S0xBLU5ERVF0VnRjMG1UbTZVeGhXb2RVVEt1SThrTkZvaHVhaEJpazNlOWVCdEQ5TGNTdG5GdjVBQ3hFdnpRTm1LOWQxVDQzekR6RG9Zd3psZXozZkZwd1QxUG1MTVZEYS1FUHpOSlRxQ1ZXSjY0U3ZodHhkS0U5WkoyQTh2T0ZjSVdsc1hDS1U2LUUtY3BKRGYzZjRtRkZTZzVQLXZXR3dyYjVWTFV1TjdxOWYyZnoteHdrWnJzYWg1eTFrUVYwUmlKakcxTzhJSGoxQy10aXY0RkFveFo1YW8tVkM2N25WVmVlNHY?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 5
+            },
+            {
+              "title": "Frustrated with Bengaluru traffic 'pandemic', entrepreneur proposes a solution many netizens agree with - The Economic Times",
+              "about": "Frustrated with Bengaluru traffic 'pandemic', entrepreneur proposes a solution many netizens agree with  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQzQ0N1g4dUhvOWZJVmNiTHlGYmRZWnByYTdxNVlQYzVKQUlxNy1POTZBTUw0Rld0c2ZUSHpsOHpCOHgzNVdOVWpVU1o2cU5QUDdEM2d6QlVUWjdDZmJGUGxzdjBSS3p0eEloa0hhUVVkQTZQMWlILTdLQU9FTzBqejFLa2syYV9rc0FlV2hKcGt5ZklOUk44MnFKVGR6S0YtTFJaSngtLTRQWU1JM3lVYWNjRlVmazA2bWNnLXVFSFpudFMzOXZnREgwTkV3UEJYNFZ0ZW0tYTlCZEVxbnNUSHAtQl9FSVNpSTFYUzh1UDgyRFRaa0kxLWJzRF81elQ4WXfSAYcCQVVfeXFMT0JDRFhqa2ZsdUJFX2YybDN2WWZpTG51QUo3WEg1STVmeUJNWkxwbDdmbnAwbE9WazE3d0VES2t1QnoySkUtSDFLY05IcndqTXpXTFBSdnNiQTZmM2x2MTdvWVpVUUNYY3RVUFNoaGlxeXhGaVZMd05sQWFOOW83V25JS2JDcmNDeHZkZldGSmh3QnJpSUJ5Mm1sUGtncldPS3daRDNrckVfU1BLS2JaMkZhdG1iVXNORGlwZUxGaFhDeWxvVFlhRmlVci1xekI1cEU4Ry1TT0pVVnh6NTdiaUFlMDhhbEdUWlFBNi11UFA0UEUzS3F3MklXbVpsSGVpc2tJSS10TTg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 6
+            },
+            {
+              "title": "Bengaluru Traffic Police push for Wednesday WFH to tackle road congestion - Business Standard",
+              "about": "Bengaluru Traffic Police push for Wednesday WFH to tackle road congestion  Business Standard",
+              "publisher": "Business Standard",
+              "date": "Sat, 26 Jul 2025 04:49:08 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTm5RTzBXZl9GRHZNZl8zZDNxelN2d3BHZ3NaSmZ5TF9SanV3bGNyYlVOWVhtUEk1SzVRY2ZqUFJoSVpmSVlwaEJvU3ZyRDI0NjdfMHI2VTZOY01VQndrNTd2MmszVzJCUGZzS3BkMk1IekQtY0tKOFhKakh1MkZHRGdIcDJfZTZTcFZuZTBsc3diTmEtMGRwRndJWF9jdmY1bDhkVGxrQlBaN3NyYUI2ZV9yZlQ0aDd3Vm1UUWNyNWwtbzkzYlhnMmlIdmxPbDUxWGlF0gHYAUFVX3lxTE02MEZ0NDVvQ19EYU9QWUNUR2JZTVRYTWRxRkhNUk5kTjVkUmlwTnJCYWNHcnR1TWtPZ013b1VDMUhCWXFxVmhxbFc4cDJrRlJ3V3NFYWRGU0JOb2ZBbXhZTUJwUFR1aG5rNVl0SHFObXFrNWlXbzQtU3Y3RXo0dXJLRmthRUM0aUdJbUpSbWVuckVTbDQwWXk5WnBCVldOSkNpY3A3SFUyWm9kRVUxc2xwWVlFWVlUZ2NGNE9ianRqbTB2YmhZd0FzM01sQlJlTk9tbGdqREtnaQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 7
+            },
+            {
+              "title": "Bengaluru plans big for traffic detox: WFH Wednesdays, staggered shift hours and more - Moneycontrol",
+              "about": "Bengaluru plans big for traffic detox: WFH Wednesdays, staggered shift hours and more  Moneycontrol",
+              "publisher": "Moneycontrol",
+              "date": "Thu, 24 Jul 2025 02:17:03 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS2JFR3JScVUySE9LSlAxQUhQLU8zcWFSLTdGYWxndks0aHFLTzdLRDQ2SC1pYWxqblFmMGZkcklrZTk1OENPNVBuVGV0el9ma1dxZHlwTXRXTEs3T0h3SDRCMHNlNUtsY2pnWEx3SFJ4V19yalBTVjYxSFBkbXR5ejRIRlRFeno5UFB2REhFdkt2VG5oaU14R0pGMmRaNFl5YjRCX0wxcG1ZYzhrbVUwYVFtc1YzN1ppTmFucm1SSmxCbnZGb1FldFdSWlAyeEk0aEtUb1pR0gHbAUFVX3lxTE9VS0xqSjZVbV9ScEZWejhFQ3htS2Z4QzZGSmswdlZFNjZmUm9KT1FWMHd4SkI5WXB6QnJyZ1pQLU9yek5KWXEzNTNIUEd3Wkl6Q0Y0bnIxNlNKMERZdXM2SEQzNzRyMTFzWlJ6NjlXcWVOQXFsVXAtMklNMGV6QXl1TjNTLV9DTEM3dXhTVlZQSjU1cklaUFUwWEJFNjRBZmlQV3h2OFFCN0RYVVNkUjV6eTZScDZ4eDZzV2VHUnZVLUwzb0YyRmphdGpwb1R6NmJvYkVPYjZITC1UYw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 8
+            },
+            {
+              "title": "Officials suggest remote work, WFH Wednesdays to ease Bengaluru traffic on ORR: Report - Hindustan Times",
+              "about": "Officials suggest remote work, WFH Wednesdays to ease Bengaluru traffic on ORR: Report  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Wed, 23 Jul 2025 04:52:07 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb2lSdk5mNUJMUEdoTk10RjViSWVyb1paRUFfYllPWG5MOGpnTnNEdU9td21nVnhlaVh1SjFaQjdSQ1FFa0VuVk9GdnhqLVlhNUYtdGlhUW5EN2oyS241REl2UUxPX1FCaG5vMkJzakdlQTZEMk5zSkViYTlhbU81bEN5S1dUekgtY0RKem56UkZXRWctSDlxVkVnOWVWWHN4M1VVcVpTd0RYMnN3U09MNENoX3dLUjJvSXViOFRWRFJTNncyVE9Qd19RTXpVWklVcTlOVXZCdmhPcHRzZ09aN1FKa0hxTmxRX21va2F6UQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 9
+            },
+            {
+              "title": "\"Friend Reached Dubai, I'm Still Stuck In Bengaluru's Traffic\": Viral Post Sparks Jokes - NDTV",
+              "about": "\"Friend Reached Dubai, I'm Still Stuck In Bengaluru's Traffic\": Viral Post Sparks Jokes  NDTV",
+              "publisher": "NDTV",
+              "date": "Sun, 20 Jul 2025 02:57:58 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVc0NEZ5Zzg2c2F6M1J3MklGQThQalpSdHg3Z0xRZHlOMEdmVXF2TGUtZ19lMDNJXzBIVnpORFYwb0FKU0ZwNENUVmJLaENaQ1l2aENiV0IzRkdVWF9iQnhoWWlrcDNGaUoxdEJENk83T3pfazRzdW9sMjNpZm9SY2dtZFFLNHhESkw2c1lqaTc3RGVjTVZWeXFicnhpZHg3TTlxM2RobTBQNlY0ankwVjRfQklxRnUtenfSAcIBQVVfeXFMT0I4ZHZOV0pwVEk5MmhFQ0E3NHoyRm5IRWE4V055eUl3NjJhSGZDdmZyQ2RaanRoVHFZaTVqcERGVGprbk93R1N6aHFLMWFfQjVMdmg0VEhfMGdsU1Yzem9JMElXQWd0dktxXzFIWkVCRlZzWjEtQVdmNXFmekUwZ3NjMXg2X3BRLW9fVUNoQ1ozUlpZRnNURVV3dU10NF92MzMxSWdQbmtEay01QVNYQzBOWlU2TGpJVWQ4MVlQdVlwd2c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 10
+            },
+            {
+              "title": "EaseMyTrip’s founder launches ‘highly promising’ plan to cut Bengaluru traffic by 30% in a year; shares 4 initiatives - The Indian Express",
+              "about": "EaseMyTrip’s founder launches ‘highly promising’ plan to cut Bengaluru traffic by 30% in a year; shares 4 initiatives  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Thu, 24 Jul 2025 11:52:26 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWxnQS1Kak5LenVXOW9XQVhfTE1HWTl0M0ozaUFhLWdsejNLQ0x3QXVvZmFPMWttRXRTdkJMdmxnbllIYlI4d0hPRzcxVFNXWXk1amx1eVVOeFJ4TlpuTW0zUFRGeVJSZ2w3UzN6SWRTX3M5SVozMy1DdEtFQUloTlBuVUFaWjdGa0UzOGY3VmQzbWUxX1MyejhWNFk3RUVoQlJYQ3huME5oZjd1VE1wMXlOZFd3NGNFa0tTODd4WlVWbkpaalFFS2RSeWpwNmw2c2FqNTlCWGRSbnhLcW1v0gHmAUFVX3lxTE9kNG9OQzZXci13RGt1WjllM2N2UXJzbU0zYzRPVkxhZzFiUW1QbjQwRkR3dF9PWWU0U3VUMzlmTGlUbC1oUTNsOWpYZGNhY3ZaVDFFelFrbVJocXhYY1JuMlM2TDRjdXJsd1MwSWppVVgzWnNxcFhiVmFQVDNnU3lxSFN2djlZb3hLdkppQkF4NV8xWG9wLWVMUFl6c05xSmV2cVl5S1BOLW9DOVQ3VTlJbzVBTFhOSk9EdzRaT3p0YnUtdlhKNk80ZUMxS09TZzR2bEktMmNVZVFXdWdFS2lROTRTakNR?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 11
+            },
+            {
+              "title": "Stuck in Bengaluru traffic while friend lands in Dubai: Watch viral video and how netizens react - The Economic Times",
+              "about": "Stuck in Bengaluru traffic while friend lands in Dubai: Watch viral video and how netizens react  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Mon, 21 Jul 2025 05:28:31 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMXBrRkVNMGVtV2dFWjFnNHFuRGhtRXBCZDgtdTBaXzh6NHZnbUNqMGpYUGdnaF9uU2hmYlNOQ1ZrQnQ5QXIxQXlhcWxGNG1RLUpqTXFLczV3WVJIVElnWDBlNDNvb1FvaExleXRBWVZ0QlBVRHJTc3AxNjVHbUNxVS1aeTRpZ203djF4MGIzQzNERUFGWHdwZlN0eS1ob0lsSjNJTkJIcGJQeWQybG9hX25EQTVnUURjdFpnNndnMHVOVVM5d19yRjhKX2lqaGxQS3ROUDFIeGpiZmdiUXVZU1NPZDdZR2xKME94NHZidHJsdHVqVHdid2RDeU9od9IBgwJBVV95cUxQUzd3Tmt3eVpRYzBRX211eThrWUl6OWZ6bEZpVUlYNjk0bTN5c1pyN1dIZUdoQmhyRkZPYkZ3V2FmV0RXRU5nNmtRTWtDaHVPdzFmbm1BeVJpZFB0aTFmUXhNY0tycnJBQzRVX2NXM1pPWkNURVhlMHQ1VllxMnJkQmtCdzBxSXNraTV0azltOXI5dG1sd0NHcnpzZ21hYjV1dFFORmdSOEdlc1ViejFiLVl0T3g1a3FaMnVFajZRdU91VjVuSXRnUVFJTGllTnNPNndMUTZma1M3SGhsZVZXcjdkd21PT2FUaVIwSzFfcVBWTXhhNWVQMVJVajdLSmtYNVhV?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 12
+            },
+            {
+              "title": "‘It’s not travel, it’s trauma’: Viral Bengaluru traffic post sparks relatable uproar | Trending - Hindustan Times - Hindustan Times",
+              "about": "‘It’s not travel, it’s trauma’: Viral Bengaluru traffic post sparks relatable uproar | Trending - Hindustan Times  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Sun, 20 Jul 2025 12:02:23 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXVmRUU4dURIY3lmQ3FzN3ZuYl9jb0N0TjAxalVqMU5xRllTQmFWMGFZRVVEM2RjNWFoYkhuRTN5MGJoMkVValhUaUFSMThuMzNQRzUwbXNuR2kwRzEya0NwQW9tdmNuMDQzWXFDM1V3NWlCeVJrMFdwMHgwQlpNazgzajViVXdGR2tXYVVRNWItM1ZPOGFrSERhRF9zQXVGQnFsU3ZJc25Xc1Yxa3lVVjZ5V3Z1cHBFamdQUjVzZE8xYV9od2tjVzRPSGhIUWJfdGotaHd1S093TFYwOVHSAeMBQVVfeXFMTWVYOXlieGRNWXZwaThwZExQV04yWTN6Wk9KR2hfdmdfa2gzbmVvT0o2djc3TlZxbUNMU0VvNEdKejVWWDBST24xUFhzRGlYZ3pLT3FfenNRT3EycjFKR0FrRzhvV0g0WEVPNktSNGs0TGFab2FmbGZaOHdVYURSWElXTWk3S2ZUYlJPRTdQa2RJWU4wOC11WHE4clhaVjFrVHJTamdzVFNjNE5tTmxibWJ6NWdDT05jdFNDQU90bFBNSUlqbEVtQUZDYklWWXRmZ1ZtcVhzZ3B3TVQzVHM1LXc3YU0?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 13
+            },
+            {
+              "title": "\"Traffic Pandemic\": Bengaluru Entrepreneur Calls For WFH Revival Amid City's Traffic Troubles - NDTV",
+              "about": "\"Traffic Pandemic\": Bengaluru Entrepreneur Calls For WFH Revival Amid City's Traffic Troubles  NDTV",
+              "publisher": "NDTV",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1g3dkNPT0pmRnpRc29oMHozN0ZxRVVsZnFOVFpJbDA2YkN5eVE1Vzg2UXpTWmlfRDVpUEFBRldEem52aUxoMGQxaGVJOVRNOTZDX2F2MVFPbGhPeWE1aDRtNl9ZR3RhRHBORDZNV3NPdndybzUxcV9kSG1hZDlWSmRYOGhQLWNFcG54a04xZzhBcFhNZUQ3d3dDdmttaDhrVm4wZjFTbFNtS0I5ZElnQU1lZVBYRHVIbFBxMlpGc9IBxwFBVV95cUxPUVZ5LS05TGNVd0xKQkhBSmo5UnFJVVNnQjJRTEdyNWs2UHo5Mm9GYlF4Mk5YaXNXY0kyQzNtM0xOUy1uRGxGTkMzeVBWb1FmRUstOWxCUmZEWU1INjhyMjNVUGdvejFIUE0xQmUzTkY4YTlkOGcyajFLcFJscU1IdTRFV2ZRWEhjdE1wQ3htWHE1R0hnMWROYlVScGg2eUpLSEN4d0lRZE5JN1hGb2RmMlJWUFF2RjdZQ3Ric2JSUE9MX1U1N0c0?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 14
+            },
+            {
+              "title": "‘Boots on the ground first, enforcement secondary’: New Bengaluru traffic chief Karthik Reddy charts plan to address city traffic woes - The Indian Express",
+              "about": "‘Boots on the ground first, enforcement secondary’: New Bengaluru traffic chief Karthik Reddy charts plan to address city traffic woes  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Sat, 19 Jul 2025 04:45:48 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFFUOWt6YVd5b0RfZzh5LTdDX0p6Z2hEUEIySjFza3hfdVg2QWhpcE10RHVHVFpUUUh1VG5wTk1vZ20weEFkODR6MGxFcThBenVzVFc4b0htbkxpb0xMcTM4R0M2TjlORWdvYU5XOWlpZVI0bG5lNWF3ZXpoY05NRjN2UVhrX3F6M21LZGw2S01HanVnWW5pVHRFT3M5X1gwNlQ1Q1drNGN2RHlwVzAxaW5tdFdmM1FKSGZVMmJ3emd3SXfSAcoBQVVfeXFMT1FVeXdZVEJIZ2JlTXRuTk53Z1ozN2VxLXYtS19MOHlSYVJFTnMtSS1HTFlRWW1Mb0lNNS1WM0dEMUdTbXI1MG1aMkc2dVhTYmRwUkozVS16dlBiV0UwR0NBdEdJRXd3TkZvREI3V0x1ZkJQZmdTdDFYT0U0X2NISS01bXZ4LWVBaEFJb0JUdVB4MDNJTjZzVURRdW5nRW1yb21oZ2xEc3FoaWpVekZTTDBsMER3cHFWLV9zel9aQ0xoNTZBaU9Cb2tJQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 15
+            },
+            {
+              "title": "Metros are crawling through traffic: Bengaluru records 16% increase in commute time - The Economic Times",
+              "about": "Metros are crawling through traffic: Bengaluru records 16% increase in commute time  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Fri, 25 Jul 2025 11:12:04 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVJkbnJ5d2dnZG5HZ2NYTms5dEs5RW84TTJRcG5sQ3FWOWlmcXFzV2RHNzM4SVk4dlhYTUthTFVNMk5LTmZ4NEYtSG1fN0xyWEJ2alFYSGZfamh5b3lxZ2ZUbDdHYnZDQ1Y0bUg4a2htX0ZzMldHWGg0RDNwajRmSjVaR0tKZ3dSdTZHczBfUDY2RUM4d21hWENTNnRibDR5VVdVVlZOeHMxV3pnaDU4U2lDNGRqdUMzNDY0WjFnc3JoSWp2ZU1iUFFkNW96cjRJdXQ3Qk0yRnV6b1JJeTZJQ2dIR2RCd9IB6wFBVV95cUxOeGQ4ZTU2cC1uQUc3UVRIczRJNTZ5SnE2RTIzOW9QWkV4dUtLeE1PejAwT2VGWk45dXJJeUhGNzhNQ0JPdjlDcEx5QzE5X2hZY2ZsOHZvX29aZEcwOE1ORE5jVFlkbDFFaVV1bm9KZ1gxVW5ZdEpUbjFlX3YzaG5xa201OFUyRlFGR2dicjRZOFREOVFiZWlucXBkOWU1djdELUdBdXV2THVuOFcxNERWT3BvdzVPZlZUY0NkcG91djZuZGxkeGR6NDRmbmNQWXlUQ2pnUTFqOUwtTHJlTy1lYzAzeWpVSWtwYnlF?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 16
+            },
+            {
+              "title": "‘Why can’t we pretend there’s a pandemic?’: Bengaluru entrepreneur’s cry for WFH amid traffic woes - Hindustan Times",
+              "about": "‘Why can’t we pretend there’s a pandemic?’: Bengaluru entrepreneur’s cry for WFH amid traffic woes  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUExxTF9QRzNrZGU3OV9KR01wRmFpRDFsdGRUUmVJT2ZneFNic0k3cklSOEZzTzJVYnB2bmFOU0dwNXY4V0ZCMjViMDhtY3I5MmcxSFJGMkd6dzFwdi03MU1La3hyb0syRUtzWjczM18xMXFEeDZFbTIwNW9LYTdyUXR5NjdvWVlBNTFnZHREYXNtZFVKNHBNbzBxWXlMNzV6VXhwVVhuV19JM201WUMwaG5RaGpHcGE0YmRmVktBOTZleGtWb0Rqbk1abHlNWlQ3MW9IdVJMVDgzZ0dxcHhvM3hlaTJpVWN5Y2V4MXNJVHNWVTRVZG9oTDliSS0?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 17
+            },
+            {
+              "title": "Nikhil Kamath Asks Cops Why Bengaluru Traffic Is Getting Worse. Their Reply - NDTV",
+              "about": "Nikhil Kamath Asks Cops Why Bengaluru Traffic Is Getting Worse. Their Reply  NDTV",
+              "publisher": "NDTV",
+              "date": "Tue, 13 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWRCaHF1aDdrenNmMDJUUkFvVFdPbWtiVG9HSDJ0b2xCZG9Vck1nMUFtQy1OSFczZkEwWTBuN0ZIVm1ZMU9BYlNIOHpMU0NLQVN4Rm5VWUJETzV3Y1BBb1h6OXZRR3ZFeXNOZzloY2IxcF9LTk5pdjFwY0ZYMUljc0dUSzY4am1mTXZCQUpkREZaSGkzeUtoQjJCdjFNRGV1UHdHRjR3SG4xa2tnVDhrcUJmcnJDLU1Tc2NCbzBR0gHGAUFVX3lxTE44NTRrNThLOFJEQTlzQU91Qkx2MjJWd2tqSU9NM0N2eGU4NHZwNzQxSVp5NEU4YUdkSUV4U2hBdDVlSXhiX1hFOHdwOURpMGNJdWZwdE1OZHMyaEMwLXk5WVdjZ05oSHZGUHFWWHNhemVudldRSndDRmFrYzVoMnZiMHhEbG9qUU91Q25XOGxuem4wb2xCMHllcGNoSWRGMldaa0U4eFdWQkVQUVlGWEdXOWVJUURndXZaa2RiY0lBSzMwMFhNQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 18
+            },
+            {
+              "title": "Bengaluru traffic ‘5X worse’ after bike taxi ban? Residents complain of choking roads - Hindustan Times",
+              "about": "Bengaluru traffic ‘5X worse’ after bike taxi ban? Residents complain of choking roads  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Thu, 19 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc2RVWVZhR21FWWxtQk9sYWVTQ3VpX244V1NNaDAxUXNRNGFvNTN5LTEzZHJLdWJKbVBYR21kemVXVUVqNEpXQkQ5a0dERW8tYkZZa3p6czF3eXcyaExubkdHSkpHYUx5UDNtRVcyX0oxX0x6NVBYYUJhMXVVa0ZaNVpHMExITXUzWEhsalFkQVF1cHcwZUhVSXAxcWdGR3ZLZ2lrcUtOb3Y3eVVwMURrbHZrdmRmVVZ5SVcyV1BHOU9qemM1cXk3Y0ZNZzQwTlM5ekhrSFZJSzVDVkVMSktvUlJpY1N4QnJCN0g1OQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 19
+            },
+            {
+              "title": "Bengaluru launches adaptive traffic control at signals in a bid to ease congestion - Hindustan Times",
+              "about": "Bengaluru launches adaptive traffic control at signals in a bid to ease congestion  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Fri, 25 Jul 2025 09:33:26 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcldZQVBfcEgxc1VmN0lmengwdnMxMGRBajZrV0FUNkVScGUxSEVrajJqRjNENGZNRlc0dlNtTXZKTmFTeHlGODZrRU5fd2hKN0J0TlA3ampfSm5BR1htbndQTVoxUjhDT3ppVm9jc09IaGRrLURyaVpLZEtUUl8xMjBtc2ZoQUt0cXI5dS1oUi16eDZBMzJCNWF6WXplLUoxYWJKZUZNMFo1U3lVWXh4M01NOE53Z09TRE93U2tWMWZyM0FELTBXenBPbEVOamNqeTJENnNwOVZHNlVUN0w0X0ZodF9RQjc1bTlfSg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 20
+            },
+            {
+              "title": "Bengaluru entrepreneur's call for Work From Home to escape traffic sparks discussion - MSN",
+              "about": "Bengaluru entrepreneur's call for Work From Home to escape traffic sparks discussion  MSN",
+              "publisher": "MSN",
+              "date": "Tue, 01 Jul 2025 18:03:01 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVc0WGo5Z3FTMTNqTTZEVlF4Mmo4OFFZcGVuQTBpUnh4QllFcEIwZW5wTUlfcmViRXJaTm5yVWoxLUd3VDZrQk5UTzdwQjAyOGZ1STRXRHIwS3IxS2dwdmU1dVVGcXFDY2FWaFdFSXlWend6MEhhbnhhN0JVU2hQZ3ZZM2QtalZGNTBJVE5lQ1lQWDJHNkRVQWJ3LTBVdXlkNHZHdHkwaFd5Z0ZWeEwwMzBmcDNsaWV4ckRrbWg2Y0tWYlYtVTRiLUFGZGdNZmJBdEY4?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 21
+            },
+            {
+              "title": "Bengaluru to Get Work-From-Home Wednesdays? IT Firms Reconsider Shifts Amid City Traffic Chaos - Times Now",
+              "about": "Bengaluru to Get Work-From-Home Wednesdays? IT Firms Reconsider Shifts Amid City Traffic Chaos  Times Now",
+              "publisher": "Times Now",
+              "date": "Fri, 25 Jul 2025 14:52:59 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3ZZRlpJajFLOUtHWTVKUHpidDlMa09HcEc1YUtZTUI2WE1FWEo2aHhoX3QyT1Q1YThuUC1oNWZQdVluSzFFdjRlaFZTUkJHVXctYllkS3pyeXRxYXBNcUo4U1R1YkxXQUlIVl9PMGxIbUk4QXYwTGx5eDR4UjdEaHRYQ1l6VE5vRExTYm1UMDVGaFY0enZObk9oU3h6Z2xOQlNXMXJRT0ZFRHpjTGVNcUdqLS1PRDJPb3JRWm5pV0Q0MEhuWG4zRlg2TFdJWDhiZEZaUTJhOHZqeVdpSlFDaXkzWTDSAeoBQVVfeXFMTS15NTNqTU50aUFGOXplUm5iU3NvWnhxZ18zemFfMG1MNE5jQ2luQnpvd1V6X1djWHJVdm9GWkJhdnNwaEFOeUVSZ3p4LVM0VzVwbzU1WUZ0Mlg5S1puRl9SUlQ0VGlNQ1VjSlRlU3BCRnRMWktodi10SktHT2xzakNzdk9ueDdUdmQ3NGVlTEV2OU1rZ1VvTVJkb1NPeXVtQ241ZVpwQ2pGbjd0aDd1RWxxcjIwWFUzNzEtUW1oeF9UV3Y5Z1BGTmUxOVJXWTBmSGhYMm9tbnRQb2F5WTNJbm4wWHl5cWFhT09R?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 22
+            },
+            {
+              "title": "EaseMyTrip co-founder confident about ‘improving Bengaluru traffic by 25-30% within a year’ – Here’s how - financialexpress.com",
+              "about": "EaseMyTrip co-founder confident about ‘improving Bengaluru traffic by 25-30% within a year’ – Here’s how  financialexpress.com",
+              "publisher": "financialexpress.com",
+              "date": "Fri, 25 Jul 2025 12:26:42 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdHUwRUNxWkhEWl9Dd0JIUkw3QTNPdUZPb2U5cFFLbVAxVWU3NGhYZzZvTW5jS09VYWlqZHBUTEdWT001dDFaWGd6RWt4ZFFGLUt4THFNZC1EM21QRnl5TGU2TkxBdGlMRW5WaktPMWlEMjQ2aXB3Y0JJY05Ed1ZMUVR2QUlEUjllN0RuaVF5blBJMGRPV1hiY2pXMnN6UmVtUU9nSUF6MDJ5dGtfZTEzNW9Jb0JjVmpwd3lQS0RpVUU0U0ZuWXFyWkJKOU9icjJuSlJpanE2MkpGWXUzRWRrZzg5cw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 23
+            },
+            {
+              "title": "EaseMyTrip co-founder promises 30% traffic relief in Bengaluru within a year. Here's how - Storyboard18",
+              "about": "EaseMyTrip co-founder promises 30% traffic relief in Bengaluru within a year. Here's how  Storyboard18",
+              "publisher": "Storyboard18",
+              "date": "Thu, 24 Jul 2025 09:27:21 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZm82dGxral8tZ0FYWnNNNTVLbktSZ3Eyb0NVWEhVMnhRZFJtTXNhZE9oZ1lUSTFvYXFaVWxBUllpYUxBMzFWMjVObXdxUmJiYjkyd0NVLWU1TzlLcGRBRE41MWJCakVsVldxeUpuckhGNXpLN0hkb0FfWEhzWWdiRnNncTIzc2FPajQzOG1KeVZLejR5TFl5akxSY19wci1tM1RhZUdXbVp2bUxDMmMzZm1vX2ZUT2NjbGc5RnNWa1JLZEZpMHhieFRYRThVaEFpM0lB0gHYAUFVX3lxTE40LU1GMERUcWY5NjlOWEJESjBva21LNlZDOG03M2FBVTJkdDB5c2NEQmFjZTNuX2szMG82YURTZ3pEbE51YmRnS05PQUQ5VDVjWDdwekxoQ29ZLXpPbVFmbDNPVXNkaE9WRlIyUkxqcjdQQnJDaG0xNWF2MWFfUERxYnNuVUZRcmxSWU4xRHBnaUFOM3VMNks4NUhIbmFHRUdJbFgxUDRrNm55ZkRibURRSFJpdmJUQmYtNFBFdWxzTmY5bXYyaEU1SEpGVU91U2d1UWE2eHNBXw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 24
+            },
+            {
+              "title": "Bengaluru ‘ORRmageddon’: Commuters say walking 10K steps is faster than driving through city traffic - The Economic Times",
+              "about": "Bengaluru ‘ORRmageddon’: Commuters say walking 10K steps is faster than driving through city traffic  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Thu, 03 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSDFZWFVFZXI4R1h5TXlLMTJrSVJYQjBVN2xQM3VtUGhSR0RHaC1jQmVTRmdpWEFLY3N5WTFzZXA3dDRoQTE4SzNFdkNyVDF4NzU2NnFsTUNma1ZmU1lRdHJ6S3B5SzgxaEx0Q0VzZGcyUlFlTWo1eHg5MUVwTUVfdjdoSno2TWRJcmJtNW0tdzQ3THNhQVlBX3ZCX1R6MmZEOEhIUzlYQWpseVYtUUJMa2R3OXRzNnQ0b3ZfaE9VZllPWURFQXk0ZjhMc0ZUNm1QSFJ2Qzk0UW9nUDNqZE5UeVlEVmd5VTRVb3o0TnRfQWxQY3V5ejN0WWhIVTg4NUww0gGGAkFVX3lxTE5neGZIWUFBZ3ozc0M5V0hlRFRSTUI3MXM1dldnLTFESWxueUJmUFhLNkxyWG1zU2pvUFJDM3RENXpoQ1p1N1dRd1BaeTB3U0lldHRTMkdKYlV3b3ozc3BZTGZLcHdoZ0h4c3gwT1E5NE9EaEJyX3l3bjc1ZWQyeEZDT0RiQUk3S0tmS0hyWnJRcF85ZV9ENVM4S05NcDZqTzhVMUcwNDEtZG94SWtVR2RuckRCTnpSNzBKUDdBbmVmWHN5bXdSZlpDWFoteGZWVURzMDZRN3QyYUJjdkdJX19KMGZGdDZyYzh0RW4wUTBnTlRBM2Y4MXhSLUNWb1dFODlTX1hpcVE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 25
+            },
+            {
+              "title": "Stuck in Bengaluru traffic, resident coins Newton’s 'fourth' law: 'Auto at rest will remain at rest' - Hindustan Times",
+              "about": "Stuck in Bengaluru traffic, resident coins Newton’s 'fourth' law: 'Auto at rest will remain at rest'  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Sat, 28 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbzZZMWJScWZ2aWM3X1ozNUZwSEt6bXBXTk9jbHNncFVwQm4zbzZ1WjIxWFh4VS12S1RsVS1taWhVbnU1MkJBalAyWTdUb2JiMTNzQVJhLVVYUXZmdUhzTmN5NVdqU19objR4bDdKSlMwOGx6SnhLNjJ2WVRLMW9GRzYzTnp2ak55YlF2TF9McF9ZSzdFX25JUm5FTTZpNXlfS0tVUkRaR3BjdWIyaWd6VThxV0I0N2FJYXZFRHlIZTVFY1llZWtiNHVDb1NQU2pkVFlnTDcyNHhwckJGVVVjVUpIeng3Nk1hSGU1ZlI2eVh0MEY2YjJaZUc3RGU?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 26
+            },
+            {
+              "title": "Tale of two journeys: One soars to Dubai, other grounded in Bengaluru traffic - Tribune India",
+              "about": "Tale of two journeys: One soars to Dubai, other grounded in Bengaluru traffic  Tribune India",
+              "publisher": "Tribune India",
+              "date": "Sun, 20 Jul 2025 12:35:09 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlNIbmpidDU3TkstYm5Dd1dCbDJnSGREWmtrVUxuT0pubEdCM2dGQWp1eU41RjMzMGhsTHdNYjJjdFBXOWxrMHdsMWRaams1VDRUTV9ZTVlKWFBLUzJmSGhBN2Q5VzFTVXBiOFZIcHJ0ZHFfb0hlVUJqRHFBNTNfMDdsU0FtYzdvdFotTW5BLUZiRS1iWDlsUzhqdUxZcUc1OGVrNWpGQW9fdHlNdVFjWExWcVJtbWZaNnRV0gG_AUFVX3lxTFBFNmZ3RFhMQmNmX3htNFFnMTBHYjM4ZUlTa0NmckdpLTJkSU0wTmd5MkJyOURmVGRteEZTdjliT1hvM3U2bzloaTV4bE1Rc2lnZGJia1BfTndkakJjVkZmTVF1ODRVZ0M5OWlsQ2IyWW1zQTFadnZYa1lyakE2WXUzSkNybHBUSklZN0tLa1MxTWZOamN6NEJHRWlVbjdxek42VEpWLVNjdk9ZTzhKWVUycW5FRGJ2cjUzSTcyNzVR?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 27
+            },
+            {
+              "title": "\"Time To Leave\": Frustrated By Bengaluru's Traffic, Man Decides To Move To... - NDTV",
+              "about": "\"Time To Leave\": Frustrated By Bengaluru's Traffic, Man Decides To Move To...  NDTV",
+              "publisher": "NDTV",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHFNb2N1Ul9fNldBR2RCSkJmajVUbVNQVDlVU2Z3eEdIcU95dFlnMU9JY3Vyb3ZSc05xTzZhR2N2aWxQZ1JOaEFlb0hHY3BBWW1PYW1RMTlGY1ZlcHR4YUtwX3lxTHd0UEVJR3kyRUZOUFJNT0o4NmxpMTZVLXdJVDltd2ZidXp3SXZMWUNFRHFiYlVzNnhUMGZ5T1lfeDZuQ29RWUVnQTJBZ9IBsgFBVV95cUxPenpGcE1Zc3cxVjVmcnZmWDI3VFVmV01hdWVTTGVGNFFBb2FqX2c1SWRvZlFzMXdicS0tSzRHdkQwUy1qWU52NWs2cEFpa0lUWDhhSGprMnVSNTlLNHhPaU5kOFpRMl9hMlJSRGphZTdiVnZuQVdGTEtlWk42YklaaHNYQU91UW5kN2VWUHBhckNjbUdpcmU5R0sxbjlPQ0Mtakd2dUlSTUM3OFRCeHNzbGRR?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 28
+            },
+            {
+              "title": "'She reached Dubai, I am still in traffic': Bengaluru woman's viral post on city's commute woes sparks onl - The Economic Times",
+              "about": "'She reached Dubai, I am still in traffic': Bengaluru woman's viral post on city's commute woes sparks onl  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Sun, 20 Jul 2025 12:54:37 GMT",
+              "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcXBNT29CRVJfRTRGUUlRSmpyMFJwaU5vREliSVZ1dURGOGM4aEdFMFdoa0I2YU9pbFI4bUZJWHkwVTJfZk9wcFR2R2wtYVh3eHNhbE05cUlrdUFfVERzal9tWjZHcDhCOGNTcGdhVVhQemdWSDNhMjhZNFJhSTNqYW9QTXQ4Z3JCaGNNYi1vZVdRcGJDTExPQ1VKd3B5TXJzbUxCRkpIeWNpZHRPXy1uU3VmMmFwR3RveGt1SW4xMXVjLXc2V1ltU1JBTlphNlNaRnBsVzJoRXdIaktMMXo1Vl81bkhmRXpMN2tuT1FzRUg1UWFtNDB4YlFYa1dhX1NWamo5a0xxLUJFSjV3aDRz0gGUAkFVX3lxTE9Fb0tlbDZoWXdZT1AwRXo4Q2M4ZkZyRHQ5TUJrVFl3VDZvYkFnME1VWkdheEg4RkZaejU5dFczRGVOZVVCOHVjWkJ4RnVzMW5JT1EzZmg1WjNpdVRZd0FTSHBOTmswdzJpcGl2c3FNNDFlZ3VkdUdQTHNVVDc5VTJFZXpmZjVrbTAwNTAtRjFKTmVQR1c0bE0tXzVmZWNuYjFOVExSZ0VSMlBsLWlzLUsxbC1McDJRUkQyczlVZ1BwR3lLb1Yya0t1dDdtbWFXNmdVX1pRbTRCQUFLTkhKWWZuQnZIMlFPV3FBd0QzdExZbDVMbnNiYU1Wb3Z3UnBldkFPSXZZd1ZXbDBDWWVYeTJzLThIYg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 29
+            },
+            {
+              "title": "40 minutes for 3 km: Bengaluru man's struggle with traffic goes viral, netizens say better finish your lun - The Economic Times",
+              "about": "40 minutes for 3 km: Bengaluru man's struggle with traffic goes viral, netizens say better finish your lun  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQaGNnd3docl9MV0RBeW1yNkxHb19TbDl4dXFEVWlCT3N6OTIyZXE3alR6SmZsemE0VlptSk5jVGRrUWVxYnlEQ2JUblllWF94bWRSbWN4NlFlY2YyanNpdC1xU29WWkhpS3h5MjJEY0UxamRrOFBzamhqM21LemhQRnJCZW0tWUxEc21HR05taEFwR2dldWl5LXF0dmRXcDBIaFB3TDlYNUpUMTNJUk9semNRVmUzUWY2cmE2V3QwNjd3OHlMSTduT1pPTzdVOUt3TE0xX2JNMjdRbDJnckx3czZ3dXo5eGxabTM1RXl2cnNjamRvcFdjblJZM2JRRUwxM1VmQnE2ZWo2TWNGTnkwcmJHX2RVanBM0gGeAkFVX3lxTE1ZWXBlbDhtR2dNSmVvLXJ1OXI2WkFCQ0g5bkJyQmlWNlRRMG5qMFBpQzRSSTZKN2dJLTJxT0k0bUFBZGNPTXR5TGlYQlBuRndpMXJFQmhCX0FDRklUemU2M2JIQVBfN1ZDMFBjUTdqSFh2dW1sS3NOUHoyaXNqem5ZNUJOdWFHRTdEc3hqemxiOUtnVlFjUnBCTmxyekFNOTJlVFJHT19UYnByMTZkMnMtNDBtZjQ4Z2J0ZFhIbVB1Ym5fb3hzdEtFMGNQcGtlRFpCZlViczJqSlFDUHktODNNM0prSzFQazMyQWszNU43N1ZsZXRMY1JKcjdSdFp1aGJLSnV5dVMwZlVzN0hTR3k3UVJUUVpOSGxRNnNaY2c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 30
+            },
+            {
+              "title": "Is Gurugram Still Better Than Bengaluru? Debate Over Viral Traffic Video - NDTV",
+              "about": "Is Gurugram Still Better Than Bengaluru? Debate Over Viral Traffic Video  NDTV",
+              "publisher": "NDTV",
+              "date": "Mon, 21 Jul 2025 05:37:23 GMT",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVlJwOGtQOWNueWRBRENYS2t4eENjaHNyVktta2Q5ZDZYa0JTTVp0RUgzSlRiOHh5bUN2TnlxOUpYN25vam9xTDBXQmpvUHRXRVdQMkpFYmpSSVY3UWE2YmNRaDVNdklnajlKamlzVXhCcUtQdkp5UkNjYklSLXZ2NG8zZG5PNE92VjkzUEFWNzhMMEhIckRJUE56SWxCakgyY1JWeEZpOG9mTWYwZ0Y4cdIBuAFBVV95cUxOTkpwSGJKWHlMYnh2OVdlSHBfdHNNbUVlZFFBc2hIc2wtUjBwVXlIbUJaclkxbWJHWElBaER5ZmVFQ3pDa091RTdOOGNNY3M4NkZERkZUV3QzTWJSREZDU29fVk5KRW9sU3pkNngwQl9rM2FjUlc1Y3BZSnZ2QlE4ZHZ4MF85NVdBQmQ2S1BnNnVpTjNGMUdHVDlTeWlZdTNhbjJkQkVfUHZFdWtlRDlHUFJ2TzFBdkJq?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 31
+            },
+            {
+              "title": "‘Leave your vehicle and walk to office’: Bengaluru’s Thursday traffic prompts viral advice - Hindustan Times",
+              "about": "‘Leave your vehicle and walk to office’: Bengaluru’s Thursday traffic prompts viral advice  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Thu, 10 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbnNYYTJNTlY4cUZNT1J1RXBnNG5hZGhEbDkteWUxTkctVmRhX1VwV1hDNGdzV1cxb2txU2trZkZFdEtTWEYxTW5iajJHRFlZQjNKZEl0eVB3RWxRVXdSQzBQc2lidndQQnpURERNUXFqdTF2VTVEWkRrTEZIa05ncndiZ3A2dFhmaHRYMzF1d19DTUp4Sjl4NzRuejllbXhuTFRvT3RGYXlKOFN6V0tTYzhsV213RFhqRFNaVFdGZTR6M0JZTHZTNDNPS3dlRXlfNVd6b3J6U1dJSFVkTFBKU1ByVlVOSmNKT1UzdEdzOUlDT0k?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 32
+            },
+            {
+              "title": "Bengaluru rolls out adaptive traffic control at signals | What it means for commuters? - India TV News",
+              "about": "Bengaluru rolls out adaptive traffic control at signals | What it means for commuters?  India TV News",
+              "publisher": "India TV News",
+              "date": "Fri, 25 Jul 2025 14:56:59 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3E2Zi1Tc2hFUFRkRm5Pa0ZUYWVYQjVzUm5ITlU5QnVmV2xHYXhOdXF3Zk8zNVJ6M21yelRRenRJTEVybmtVX1BjNDlHR2NaQTZRNjlCRUhmZzBqcDVseTdfeXh6akR5NGFIVnJfWUV5VkI0LVNEX2xWcnhFdzM4VE9CSUFwSGx3OXFzNDB5dnozNGdsVUpIMVN5ajV2QWpSUEYtOWh3N2VUcEdNUFhJWGktZjlqQ1RlX3BuSWk4b0JzZElKNXpOM25PbEtjS2R0V2M0TGl4TdIB3AFBVV95cUxOa1E0WmxzQVladHRLOU1NNkoxZWc1akI5czdyNnpQa0MtUm1NaUpNWDZLS0o2MkRkaVV2N19QRHVlS01TWnhLOXptNThJZ0VHRS12Vm9YWE1zcGhXZS1MODZHVzZyNjE2eHoxRUJqU2hPVlhGMVBDWnZNZ2pFMjBaeVJla0t0YkFVQjliQktBWXBrT044TFRnTDFnZlc2QlJOSjdreHh3ck8yVW0wZ3BnMnRYMFAtZVVUTzhGR2ZRdVRqaWc4VEV3TkJXYlktV2NOeTdLVWpFamViMVZl?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 33
+            },
+            {
+              "title": "Easemytrip co-founder 'confident of improving Bengaluru traffic by 25-30%' in a year, lists steps - Moneycontrol",
+              "about": "Easemytrip co-founder 'confident of improving Bengaluru traffic by 25-30%' in a year, lists steps  Moneycontrol",
+              "publisher": "Moneycontrol",
+              "date": "Thu, 24 Jul 2025 08:13:43 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFhucEd2dksxNnlZSnpKbWZ4SXdkOWRfQ0Y5ZmNDQnNHZjdJYkR2RVNkakI1bWVsOGNUaGFpTnJZeEF0V0pVQWNJT0NqeEkyRWwtM1hpQU1jZjNwcHBOX2d1UDA0QVhEZ0xVTXhENS1iRWpTN1pvSUN2Vkk0UVVYVHhXTHBUZm1xcDdPMjZjVkwtSTdZbjNIT3BILVJwVXQ1a1dvcmZIa2ZHaWI1TEtrNHRUQVJBbHJyRWhIVGhXZVQ2MVFEQlBCb3RBQ3RaOG9ZU3Fpc1Bxb21hcGd6Y0IxX3Bn0gHnAUFVX3lxTE5vQmhCZDhpaU5jX0lEMEhxM0w3UGcyT2dCN2VIejBJNEtic3N0TllTTmRBbmZyMmlXOWpsbzBmRzFjT3kyYTA5ZGh6NmtpMVlyb1BKaGF4dGdtNUVvd1hmcDRhWXBLVGtDNEx3YzdaWWp5YWdudEx2LXBiZy1ianBqMy1DbzRESkZtb0doVGFqOXoxSHdBSElHci1YVlc0YzNTZE5DYUxjcDJnbjFZNzR4bE05M2JIVmZoMWtBTW5qZl81UzcteWhtQnQ2QzRhRmt2UVZZQmU3Nk9iSGliOElwWDhJb2ozaw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 34
+            },
+            {
+              "title": "Still stuck in Bangalore traffic, friend reached Dubai: Netizens react to viral video, ‘Mocks entire city’ - Mint",
+              "about": "Still stuck in Bangalore traffic, friend reached Dubai: Netizens react to viral video, ‘Mocks entire city’  Mint",
+              "publisher": "Mint",
+              "date": "Sat, 19 Jul 2025 12:06:42 GMT",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTVlvN0JYU3lsX0FsQWlLbUl1azJTSy05dG12X1hxY0p4QXYwVG81LW12NTZsLWE1cExjNVNmVVhBLXhPQ0J1ZU1BUmlybHRIVWpGWXpIY3FzOWRYU3VmaUQ1U19JUGs3T2tBaDV6elhzNXdkeVhRRnF2ZXZITS1BTy1oM1ZDMXdaeGs3dFpMbnFyZ2V0VTRnQkk4dUJvQjNPanBfQTR1eWVRVUswLTdDRU1UbjUtdWZGX29Ta0NDUXR5YzlvOE1DN1NzdkFWbjhyZjI1Zm5Fa01TUnlOUDdmdnFuOFp1bC0ySEw0N3RzdGdCcURpMU4zNTN1b1liaGZ5YmhoUdIBigJBVV95cUxQZG5OZ0tzTkJpRTVsYzdZRXVFelUyVUFmT2NQQzVVakpybWVpS0VpS0RkekRJMG9XcDgxZGZ6bUtEMzdLT2p2T1JNeHJ2ejd4QWc0bVJ3Z0FZS3BVdi1vRVBFU3Q4ZWlVdkV5cWw4Q0lIQlJnN0hPZDM3UzZtQXhpYW1Jd3ZNenJ0Q3FrOXhpdXViZnl0TmJEcUd2SklVcktPYVBFeVlyNk00TFdLRWJudjZCYnlESzFIcXR2N2dJd0V5UTZpNGU4WWtDMG9fNVhvT1lMRUZtWVl4b19tbFJGWXo5dHhWMzhOVTJPT25BdmVBdG5yUlhJWnc5SzZHQmRXQVRrcTZBTVVjQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 35
+            },
+            {
+              "title": "AI, Google maps, and ₹1 crore: How a startup founder plans to untangle Bengaluru traffic - Mathrubhumi English",
+              "about": "AI, Google maps, and ₹1 crore: How a startup founder plans to untangle Bengaluru traffic  Mathrubhumi English",
+              "publisher": "Mathrubhumi English",
+              "date": "Thu, 24 Jul 2025 09:14:55 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTDl2RlZaeGUxLXQ3YkpOeWwwMEwyOFJYRVFKQ3BNUW15ZWUyZ05IQW1Kd3lrQkNYUDVtZHFVWmhtSkpJa2Y1bUdqbUlReV9iazNxY05sS3N6ZXdnZFU2bDIzV0JmeDhmUF9fWmc5a1hVellTRU00WnFaZUNtZXFDN2U0TEotYjlqS3R0WktCaldBdEpQczFwd1JOeWQ4RVduemt3TjFzeTM5UXJhenpnYnF4R0lIc3lUM1JLMTJWNkFLU1NBNG03WXlJUzhXNzZ3QnfSAdcBQVVfeXFMTkt5U0lOZzRpckVxc1lLRTV3U1dKS0NGQjNFX3JSVVdOSk1GS3VUVERXWjRJM3c5OTRKbDdZUUVSbVdXbWNtT0h4QXIyeF82LXg1RjNfQnYyYlhQMWJKRWNlTUVRdmc3dU1HS05kZjNkX3JyRFlfdzlEYnh5ZmZMUWJkcDFIckpoTG84dDVJamx1bG55TEZOaS1kcnpKUjJaRFpGV0w3N0lXY0RsQVV3dk13dlRrdERaZDNRcW91b0lwenNEbURzZzhET2hOZWNjS0Nmd3NNZEE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 36
+            },
+            {
+              "title": "Bengaluru work-from-home on Wednesdays? IT firms mull proposal - financialexpress.com",
+              "about": "Bengaluru work-from-home on Wednesdays? IT firms mull proposal  financialexpress.com",
+              "publisher": "financialexpress.com",
+              "date": "Sat, 26 Jul 2025 02:40:34 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmNTQkcyQVRLanRHQUhwVlF3Y2ZrbG5XbG1rQTZOdUNjNTRCeUlRZnc4ZjktbV9QU3ZGVXhqMjVoUzFaWFhSandZaURmaU1NdHFJM285a2NjaDdNdm9uNm1ZSS0xOWE2dXoxRVNvb1g4a3pKSUM2N1h3ZHNGSkJKNDQ2WW9VUDFvNkNDcVI5NzItR2U5cl82amVxN0NUVjZxTHBWbmFKQnFSVjhtVGpsTm15SmRxMnJyTDNN?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 37
+            },
+            {
+              "title": "Can an open-data project solve Bengaluru's traffic mess? - India Today",
+              "about": "Can an open-data project solve Bengaluru's traffic mess?  India Today",
+              "publisher": "India Today",
+              "date": "Thu, 24 Jul 2025 11:26:20 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa1pKdmpuOVBvcmFOU2FSTFR5dl9lazYwdHVkZkxDUXFUTmM2U2tXa2JnOV92RlNqaHYyWGp1aGxMTWhSVjcxTmEtVkd0aDFZUFRYZEtseHQ2bWM2R01VZkZKMmRQUHdYdk9uREhTblAwM0VVYkhCNHNvdnpNdzU1X2J4aEp6R1U0TWVSN09FaFVGYkh1cG4tRDFORWg1SDVPMHVhQjJkRmtEbkNxV3BEM3hobHpvYnUxWk1aQUd0RHlnRkXSAcgBQVVfeXFMTmE4SzVDTy1lM1FnUjJPYmItM3pyNy0waVI3UWtWSmNvbWNNUEd0N1FrU0JSa2Rud2M0QllEYmZRN1ZMZGR1TE12VnFhamN2Q0tjbXpDMnRYdVRWRGZPNEoyRXNaWUpCdGRSbXVCd3o4YWlDMWI2RG9Ob0dfeWplMHZkOVVYMnZkOFBzMTJqc0dpQWE2RHBzcFQtWGtZT3FuN0VVOE1PT0JLbzBzTXRTVlVUZ21kMnU2VHhYU2dlUGF4d3M2Y1o2RXI?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 38
+            },
+            {
+              "title": "Hotmail founder criticises Bengaluru traffic, says, 'How do people tolerate this every day?' - Indian Startup News",
+              "about": "Hotmail founder criticises Bengaluru traffic, says, 'How do people tolerate this every day?'  Indian Startup News",
+              "publisher": "Indian Startup News",
+              "date": "Thu, 03 Jul 2025 15:49:53 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXNDWTYwV0hmcy1KOGdhbHJFYmxxVUZtb1c3S1N4V1B3WVlkY1hEUExLc1BCXy1zeEZEMkExTjAtbDE3N0xDeDJIZHFGNVRyWWJHSlotd3JKd3k2TksxY2pLbGY5Q3I1Q2Q1T1hwSVdHNUk2ZEU4cE95OGFBLWlGU0hLQlhfdTJGanpKM1V6RndxVUlwOTdZTGJyN2xxY0liUjhGWk5UckJDZ1hNakFROFQ5bElKVGRfeThOR0tiNFhEMnlGMThZckR30gHKAUFVX3lxTE1Vc0NZNjBXSGZzLUo4Z2FsckVibHFVRm1vVzdLU3hXUHdZWWRjWERQTEtzUEJfLXN4RkQyQTFOMC1sMTc3TEN4MkhkcUY1VHJZYkdKWi13ckp3eTZOSzFjaktsZjlDcjVDZDVPWHBJV0c1STZkRThwT3k4YUEtaUZTSEtCWF91MkZqekozVXpGd3FVSXA5N1lMYnI3bHFjSWJSOEZaTlRyQkNnWE1qQVE4VDlsSUpUZF95OE5HS2I0WEQyeUYxOFlyRHc?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 39
+            },
+            {
+              "title": "EaseMyTrip co-founder shares update on Bengaluru traffic project to ease jams - India Today",
+              "about": "EaseMyTrip co-founder shares update on Bengaluru traffic project to ease jams  India Today",
+              "publisher": "India Today",
+              "date": "Thu, 24 Jul 2025 14:39:20 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPellzTjg4Y1dlRUJfdFczeUlrdXhIV1d0YS1JczVQczh5STFnT3JSZGw2ckMwam91X2NQYU5hYVlyWXBUUldDUHllMlVSYm0xaGR4akUzUlQxOGRtaHUxQ2hHVG5sY1dRa2hNdHctWHJaRWc0bjRNQmRyb1pvRlZVWU9oaWRzdFRRWjJYMnV0RjM5RWNGV0NVQ1JUVHZkM2pDTEtCdUNUX1FYMFN3STAzT09TeFA5ZFR5MlpYTmd3cV9PZUJMcWhlVW5KN3hWbzZRdHJCX2tSY3FOQkRfSXRnRzg4TXBDZy000gHuAUFVX3lxTE1OSkRON1VpeXg5WmNSVnNfc0hWRnMxd2xRMncwa2xyTTJDZnU1WF9haTQtbjNVdU1FeFh3aEZDQndkTXpQVTBYWFE1aHQwaHpJVE0tUklpbkNhSktaU2tUdEJlUm16SUd5SzNyMGI5N2lUNU5MT0lOcWpzZEdwQ0pxYTZGRWZPRjE3OGRXb2VYaXlZSkh0WkFYNjZTdE5LcWZzN1B0MUtrVUhNVVlVTnR1OGlxRm1QRUgzN2JjQ1EybUk4NnFTSDdTSWpHYUpzYlkzNEgxQUNvT09YWG85WGdxMjZJMC1DTmFYZ0M4OUE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 40
+            },
+            {
+              "title": "Namma Metro Yellow Line with 16 Stations Likely to Ease Bengaluru Traffic; Launch Expected by August - Times Now",
+              "about": "Namma Metro Yellow Line with 16 Stations Likely to Ease Bengaluru Traffic; Launch Expected by August  Times Now",
+              "publisher": "Times Now",
+              "date": "Thu, 24 Jul 2025 10:30:42 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSTljMHZyNFdMRXlFUGVlU1ZYb18wTHhlSkYyNkllTVNsd05oX1ZyQVpVd2FqZmltdUNRTjA1UXNTaVRNaVhmNWY0SlRMOEtHcUdvMWVNc0xoeG1WNW1INFMxc0dYZThKMVN4TWdDSzFta2cyWE5kcll0N3A4YWVZdTl1V2JYX3h6Um50OVg2cXQ0dGtZdzA5cjlUZFhzSllZZmVOcklmd09aQ1BiUHBMdGY0TDM4ZXZzRnZVWlJVbjVTUGZhZngtNXFDQlAzSjN5djZlVXFJSzRFQ3hDWnhSdUItWkw3aDNkdUFyRNIB8gFBVV95cUxNVkV0U0xTLTZTX1ZKZnZtb1FNY3pUdHhPUjF6UndYZEdVR21zLXdsMnhMVmhIOVpjb2p3LUFyb28xWVZ2anU4bnBWbjQwRGg2aEM3dmVaVjJsaUlIaWlMeWQwLUs3UEhaR1pWM3FyNXBJekpiRzdUemt0SGs5TEN4RExoX1VBZEtXWVNGbnBublZuVGtYUVNaUHNSbWVIalU5TTJqSXlPTkFacGl0bUY4cjdQMFdlR1M0UUhnWElHa0tjNHNpTkRfaUFwTEVINGI2eXEzVEJMSWNCT21YT2ZJWXFNOWxPdUQzWURfMlZJMHJaUQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 41
+            },
+            {
+              "title": "After pledging Rs 1 crore, EaseMyTrip co-founder unveils plan to cut Bengaluru traffic by 30% - Telegraph India",
+              "about": "After pledging Rs 1 crore, EaseMyTrip co-founder unveils plan to cut Bengaluru traffic by 30%  Telegraph India",
+              "publisher": "Telegraph India",
+              "date": "Thu, 24 Jul 2025 09:11:04 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHEwTFBqcmpEVmx6VmhxZTRqQnlYdEVsbGhTa09IMW9acTV1WmNTSEwzY1c4TmtBSDZmaHFaVUFxaUs3YXpiWUswNVhVel9CNFhjazVQd3VqMVBOWWF5aGFqN1VEQzZldDVoUFc4b0ptd0hXb2h6Y3JMcHRfR3dmZnBnQ1cwUGtvdEVnRnF3UmgxajVKTHQ1NmxKb2xybVdhcmczQUVfT2ViV00xbks4QkFVOGtCOGRpcTNzRVhKS1lKbnkzVXAybmNDcWk2T3U2SERyMEtiY9IB3AFBVV95cUxNSTZBWmFHZm1pMW51cFJYY0w0aVItTXJDSzJQRjNmZHF0UU15WVViYXBoa0RDRG5KLUlmekV4R2lBMWMxTDBhVnN3U0o1SndnZTg0WjNaQ2daNHRyV0VURGdhVm9ncmttbXRrZFc3UjVTNl9LLUtNSnF3dDR3T21pRmU0RDhxOEczUnF5U1NzalpmUFhKdFo0QTBNbzNfQUcxbGJZcS1wdFJLdTlielA3cXhXRnFhaG9EMFdFMkF5S3FldjRzaVNqSDFUb0pVN3Q2bUgyaDVCT01COG5K?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 42
+            },
+            {
+              "title": "Bengaluru traffic police to crack the whip on civic contractors to ease road congestion - The Hindu",
+              "about": "Bengaluru traffic police to crack the whip on civic contractors to ease road congestion  The Hindu",
+              "publisher": "The Hindu",
+              "date": "Mon, 21 Jul 2025 15:13:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTJyZmxiTWI5NF8ybEhHSG9FMDhza2VUNEp5N3h4QmI3MWl2eFlxNjVrUEpEQ0xsVmROekk3NldTYWFFM3hhaTAydzhld1llNWExNk5MZm1zTS1DZHZTVGd2WXdTSld5YzJ6RjV3VVAxRVRwZlNmWEwzcFRXSm42MDNtZkRNTWh4SHlQa0ZUNGpuNHVlV3dwLWEtcEthOG1ZNnFac2xZcVNvdkE1Tmp6elpabFhXREZUNTRpNndtRkcwWllUcGR0TUQtUnVEVTcxdlF1WkU3aDd2dXZr0gHjAUFVX3lxTE9aOWxvSjZLbVMzNE1PcV9jVkMzZ05PZzFCTGRGdHRiaDFYZDlxUFRjY2FuZ0R1OE1YYnRtYWZuMFJmX2o1bmtKUUF5X05ORWxwbWZ0cGZDbzNLSmxfcXg1aWJLWXFyX0VGU2s1Y0lqQ2xzWjNoNkl5TnhCS3hKSm9uTnlFbVNvdVFOaDZWVnNkR2pGb2lsVXdKTXAxcFpiMUVOOGxpZ1dGcVBZUG9FQ20wN3V1Z3VQMDVmSm5yZUZCd0ZkY29kMFdVWHNSVEppV1R5dUxNanRrYTlOdHRfRHhvamtR?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 43
+            },
+            {
+              "title": "Bengaluru traffic stuns Hotmail co-founder: ‘How do people tolerate this daily?’ - Hindustan Times",
+              "about": "Bengaluru traffic stuns Hotmail co-founder: ‘How do people tolerate this daily?’  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcXVyLTJ3VzdVRDBxeVo0QjVkcXdERXhyS1ZrWFdLbFM4bUNTcE1Oc1Fjc0ZZNUtFUU4yX3FaeHlOSEdOa2g5YnJkVVNkWnNoSUtVYVZhNXdQM0N5NlFHNFg0WVZUTWphV3ZXSXB5QzVVQ1V0UlBxSGhwd19sMWU1LXNHQmRrRkFFSVlfOUd6VFAtVWtjWTF6RXYyNHg3WGF1SG9WZ0xscEotdWczRlpWRWViM0U3STExNkgwakNleDRrdGYtaWhfSnQxWHdQalhtQUpIM1dHdHFNLU5uRnFXdkd5Wng?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 44
+            },
+            {
+              "title": "Zerodha's Nikhil Kamath asks Bengaluru traffic commissioners if VIPs are above traffic rules, gets THIS answer - Mint",
+              "about": "Zerodha's Nikhil Kamath asks Bengaluru traffic commissioners if VIPs are above traffic rules, gets THIS answer  Mint",
+              "publisher": "Mint",
+              "date": "Mon, 12 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaFBicU8zcDJpdmtZel9iVHVqZ01adkxCWXJyU2FXclFvU2hoVmpBRE9GWDFmUHRHNHBLdHEyZ1c0aHRBOGZ5U0ZYT1BoXzVRYXhsZVQ0ZVVDRHhsdVBwUDFHNS1fc3V0czZHOUJNREY5OGN5LVFYM2l1cjlpYmswM0lfVVZyUXVqZEdjelEyYm9wUHhaVElpdXVvNUhGZ1YxYnA3cTZNS1pwM0VNUmRRTjAtQ091RGtWelZCR3h0RWg1NkRkWkdKU2RBUkVuNHA4R2lvWVpkSG5BWDBXbGNIVmQxRm04NEVQOGd3WTAtMDJrYTBQR1dB0gH8AUFVX3lxTE9IMEFaTHlwX0dXbGlCMWM4QUJtZmI0X1JJYnFibmt5eG8weTM2NXNwOHF1VnVEWUthZ180ZEZJd1NSYzhzVkZOek9YUDBfYXVDd2hVVjJ6a09kdVU1M3RxV2ltelNjLXBCREc2M0FEMy1pS3Z1Y1k2Nlp6WjA3R1pSUDgyUklJNnppa3J2akx1U3NlZ29XWUptVXkxemJQNWhRLWNTaDdZeF9WeVhPc2lQNlJBM0FTUDg0R1M2anNKWDBmcTdVNmpYN1hONFdSSUREUTJreUxGRXZmWEN2d0xScDhrQjJTaEtsSlhSOUp0Mk5RN1FNQU9kX1pFbw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 45
+            },
+            {
+              "title": "Bengaluru has third slowest traffic in the world, finds TomTom Traffic Index - The Hindu",
+              "about": "Bengaluru has third slowest traffic in the world, finds TomTom Traffic Index  The Hindu",
+              "publisher": "The Hindu",
+              "date": "Sat, 11 Jan 2025 08:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemxrZ3BzNm42UFBOaU51N2ZoY1dnMFJLdlZFTHY1SGptNnc5X2dMUWc2eEVHUWhybjlDYngxODJOYWNycmhKUjU0Qzd6SnQ1SzVPTThzNnVGdlhoVVhOUjVaM1MxUExxQmlDVzRpNjFXZjJ5VGxQMkstLU1iM3hZTHJVUVFlakVfUV9WX19BTm9iMC1rcWJqRTMydU1DdElURUpoRHc4c2UwbEdDUG1tajBFZGd0azNmcVVKM05HWGNxSjRubk5rODdGVERWTGc2TThMSTlZcXd6UdIB4AFBVV95cUxPLS1BTDhqaDE1VHF4Ul9IdldXcWZsWGxaNGlfVUdJSnE5dnNSUVdDS2o0eF9mM19YVmQ4NWRHbllxRnFlQ1dMQ2lEVGd6OWdxYjkya1VMSWdtaGdaalk3dWRwVzJ1dS1ZSWVRbVlkQzdGc09sbmU0NXN6RDBCVWJEcU1QdEw5VnJzeW80QjhPWTFSUUdHYWNuUXNrQl9CcXZIbjhhVnZ0TG1zQVBLeFZsOUFQdzE4Y0NWbnVBazNXX01oLXQ0VndBTDIxaTVxS0tMS1N2cjVERmhrWjM2Q2JXYw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 46
+            },
+            {
+              "title": "No rains but 3 hours for 12 km. Bengaluru resident calls traffic nightmare as ‘preparing for war every tim - The Economic Times",
+              "about": "No rains but 3 hours for 12 km. Bengaluru resident calls traffic nightmare as ‘preparing for war every tim  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Tue, 24 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR2JuN28xUXp3d3lyRVNhVm45NmZhM3N0M1lIU0pENTJ6UDllTnVkVVctMjRyajRjZlo5SnJoUUlrTEYxR0U4Um9YNnRhMXltYnMzSmI3UEs3ZkQ4UHJDb3B0eFAyQ2RTUElBZ0IxazBwTllsWXlNUG1jTHJONUNiOVBxa2ZQcEpVdXdqTGJyQVhDYlJyRnU3OWJLSmJCc2MwNEhMSWtWRzJmNGJOWlduX2V4ZlM1R0E3cXVtWHRaMEdoM1hrdUdmVlQ2RnhXQWFHVzhpak1MTjVrNl9nbWNTVVBxS2VMaWZ6NFhpVjUtXzBSV0hHV1NQRFU0M0lzS1N6OGEyZHV0aUzSAY4CQVVfeXFMUFlPdUhyNnd6enZBcHpfMFhIRGtvVTJQOTlucHVoTGRHMElwdWZJbjJwVUlvTlJ5QkNmclIzT0hOb3BxTElkdWNVQWRvVzJDMXo5RGNnU1pRWlZFYzJnbFFJSjF4UFdUQnpaUDhXd2MxU0RqcjlPYk1fN3ZwdmlCckJjN3BVZnJ5UHBsLWNrSS1ZTmdrR3VXbkVPRnhkVzZnZnFaakUxYk1pVU0yXzI3WG4xQzJsQ2YxTHd2aHhPa2l6bXlvb0dwZVA5VWYyREtMb0RSemlPWVMtaEl3OFo3eU9DUDcxejRjbnFua0hmQkZOVkY3UHg1RWVLQllqVVNSUnIzb3lpd3FEOWhQS3Z3?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 47
+            },
+            {
+              "title": "Startup Cofounder Pledges Rs 1 Cr to Tackle Bengaluru Traffic via AI; Police Unimpressed - Deccan Herald",
+              "about": "Startup Cofounder Pledges Rs 1 Cr to Tackle Bengaluru Traffic via AI; Police Unimpressed  Deccan Herald",
+              "publisher": "Deccan Herald",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHIzN1kzX1NHWVdaMHpadkg5aWgtcEZQMi0xeTNNOXJPU0lfNTBfdGNPVXZ6dG43VFhNSU0ydzZtdG9BajJFQlhra1dCdlZYWU1UQTVaTEtRc2w4REtRRTk5a3hob3c0MURLRW1iYmVQZU9LbEpRTTQxUUNwRDRnajJQbmxBcFlsNzY5OUk1b3Fhdk96SHpZcUo5MU9lWkFFS2ZHTmE0NGtfVXNhSV8weGdOQlIwdDhpdm5NNkJ1dWhMMVJoX19rN0tqZGN3TWFCc2dmd2FqVTRQaDRfNllrM183OVlsSDB4VGRSWA?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 48
+            },
+            {
+              "title": "Entrepreneur Commits Rs 1 Crore To Fix Bengaluru's Traffic: \"I Am Willing To...\" - NDTV",
+              "about": "Entrepreneur Commits Rs 1 Crore To Fix Bengaluru's Traffic: \"I Am Willing To...\"  NDTV",
+              "publisher": "NDTV",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0Z0QTQweTl2aUVYd00wcWVKYUhlZXVyMXRIb1U2R3p5NXUwSmYxbHdyWmplTDczbHNQSldMYXVrWWIxM3ZRd1pvN3VzTG9QTXFOLVZCajViYV9MNE1WLUxkSFFaZi02ZlhpV2xYWHQwbk9rbnlnS3dQOXNVdzB4WUdZN1hGcHlqbkhrcUxNZ19FdzV4ZGx0Q1JkMmFQQ1dCdDRSR2lRSdIBrwFBVV95cUxNYXYxRm50Zy1yLTNCQjIxS1RMMkgzUDBvQkk2Z2hleGZtMEdFaUZlckN2Wk9JZ3pxNEVhSXc1YlBTeWZHb0NXVy1vZDhjYk9aRkRjcnp5NGJTZnBqb0NyRFZDNTM3VnliLXIwZGJ2MmFwZmdNckZCOEl4ZDV4QVc4aU1LbjZsTHFHVGF4UTNNQjRTTnBZZnB0ZE5vRGJXM0hvVVdJeW9UdktGbWpoU25F?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 49
+            },
+            {
+              "title": "'Worst condition': At 3.30 am, it takes commuter 2 hours to travel 6 km on Bengaluru roads - Deccan Herald",
+              "about": "'Worst condition': At 3.30 am, it takes commuter 2 hours to travel 6 km on Bengaluru roads  Deccan Herald",
+              "publisher": "Deccan Herald",
+              "date": "Sun, 06 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajNJQWFJeVptd1hvSGliTGxDS0hUbENsaEMxN0NIZEo1eDdJU1dpcmw4cVg3LXl5UHdvZ3lWZm1ZNkR3TTBkMldUWWRNTHl4SU5FbmpsUmRWaVNuV0g2dEtKNDNCVUpjcFdac2pSV0kzOGNVc01HOVhtTHJHaVk4VHE3QkN5YkRoV2VIWExJWHNDVWhxODBPVFlPTVFqQ0lDOXlWTzVCa0FXVTdxSkdPSGV6V3d3bkZDY2JRUTZKbUNRdW4wNWNhYlotR0U1ODlNY05YY3h3WlpWOUxyclE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 50
+            },
+            {
+              "title": "Bengaluru Traffic Police Suggest Mid-Week WFH And Staggered Work Timings To Ease ORR Congestion - Curly Tales",
+              "about": "Bengaluru Traffic Police Suggest Mid-Week WFH And Staggered Work Timings To Ease ORR Congestion  Curly Tales",
+              "publisher": "Curly Tales",
+              "date": "Tue, 22 Jul 2025 13:31:22 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVNSeGUzbGZYdERpdVBTYkFrbjJZMV9NVl9qLXFRUDNXRzVWQkFOUFE5STlCSXRJVGpnbnd0Mi1PaGppbW9yUlVLaElrNS1MOXZWWFNTRDZhc3hSMWJ3eHdUVmxGNDgwTUlNamxsQWRLYXpPUjllLVlzTGRnaTJTZVpILUdqMFFBTVcxNGRwVEQ2cE9ZNU9sNW84MlhlSVJ4VGFVM0VTVnFuTXdzMmE1R2g2ckI0MzFOS2Nv0gHAAUFVX3lxTFBwamRkMHVVVEhpbTQyay1maV9BTGYxNHRjRnN3RmRZZE1BM0hKZWFCcDhYa2xBQzN1dDNXU1dKalh3aHdZLWZSeWZfbGREZHhHQkZXWWYxenVrd3FzSldjaS03eUtXVFI2dS1PVldjMXJEVUNVR2VDQW5keENLOERxcjdPWEg2YXBqTWZSQlluYlVHbW1yUWU0R1ZjN0FXOW9SOEg4UUZGVTF3YXNQS3ppTXFiNUtDdlUzNjZkNW4tYg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 51
+            },
+            {
+              "title": "Rants on Bangalore's traffic situation - Page 1520 - Team-BHP",
+              "about": "Rants on Bangalore's traffic situation - Page 1520  Team-BHP",
+              "publisher": "Team-BHP",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUNaT25pSjVoQ08zOUdpM1R0WVlxNXFza2g1WndyRjJ3cUJKZURvcy1BNEFEY3I2dDV2RjhMMjM1OGloRmVIZ0h3THpmY193a0lWYnJTWnlLQUdsdGNWVXZzOUNrTERmVEx5U1ZfdG1QbnpFNW5DTTZLT3NsVkVIMWswR3lrX1FrV3FDVlByREt6MDV6NFU0a2ZlYXludnItT0E?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 52
+            },
+            {
+              "title": "Bengaluru's Daily Office Commute Slammed: ‘These Uncles Sitting On Top Don’t Understand’ - News18",
+              "about": "Bengaluru's Daily Office Commute Slammed: ‘These Uncles Sitting On Top Don’t Understand’  News18",
+              "publisher": "News18",
+              "date": "Fri, 25 Jul 2025 03:15:08 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSnZQRkNpdmRKdEpwNnA4Y1YyZVNWYjB6WXhFNS11RkJjWFVDMWtRZmkxa21sM3RQcl84RDlQdnZiSE9pZHNSNE4zdjc1UlE2YXhyRGYySHZTcGNWTE5ibVFPRWlBb0wtWlN4NFBST3R1V0xmVnpVYXRIYXdkTjEwajVkbEhUWThKbGdDakY4dE1yai1wVXlYT1VwQXZaLURVMjJjMDFGMG9MaEYtZV9qdndQS1hwQkp2UXNfdlpOZ0lhZ0JQbExGVWVHYXFIX1lraTdqdkhrNk4zQjJZb2h5N0xn0gHnAUFVX3lxTE45NFl5aDdVcEZFaVdOVDQwQlBvMDBPNzZ2enZJa0RLajhTbGtMZ1Badm00YkE3c3QxV3Ffck9felRMRGMzOGdtV0xEaG13MmhGb2lOTTZqVnBlN2JkWERSTUxXMWtMWDU4bDhGUnEwbVNFQUJ3SVZ1c3VIc0M3dHlxc2x5SmtTTU8tZWcwUDNVMTg2YzJjdC1rSmtXTG9vN0d2RnVNNmZUY1N5ZUJHTDdtcE9JdWI5cXVRUURLbzc0bkNGQWFrZHhlcko3TExic2J6SlktVkFkMlgtNEZReFJiNmdTdlBVWQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "positive",
+              "article_index": 53
+            },
+            {
+              "title": "‘Can we pretend there’s a Pandemic?’: Bengaluru man’s post on traffic woes is viral - Mint",
+              "about": "‘Can we pretend there’s a Pandemic?’: Bengaluru man’s post on traffic woes is viral  Mint",
+              "publisher": "Mint",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTdnNmhIVWZOcDlsQlBLalJfR1FqdmNFR1RjQ0QxV0lteVFvc3JNTEdfS1pMNHprQ2JFRXROb293U0hZXzZYMFZOUkxGSjItQ2dtX0UzcktsMi1QUU9LVUx2aTdGR3JXR3ExQkhLdmJNQzBRTG14b0J3ZEFVNEpLNk1PcENRcTZhc3hzNVFNWjNiMWM4LW54aFQ3UHRNeWpiYUhvRTd1SGNKeHVsRXhZRXU0YXZtZU5fMGRKeG16UnB3SEhIdlAzMXNmZGUxMmRncnfSAdcBQVVfeXFMTkNYY0ZHaTk3d3ExOTlpLTNnNTY1RTJiMWFEeDVVS1F3SGdJX3NsTGYyVkdsLXktU2dNYTdhYXpQS3hsRU1pQTJ0LTZZR3FDSUkxaWE2aWxmSTlKb2wwc0JGSHR1WlpMeGVMOXlfaVlqWmhhSE1FaWV1bkpvcjJQZENSUWlKMmFvck9GNUkwTTRwQ0pIMUhiMVZBeDZBbGo2MmhUY2xSQmxISDhSMVY1QXRsbUhTaWhGNHMwRUZ0NmNTbHcwM1Z6U0NrWWhFcW1WVzVDQ015T3c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 54
+            },
+            {
+              "title": "'A Bangalore auto at rest will remain...': Bengaluru traffic inspires 'new law of motion', netizens say ev - The Economic Times",
+              "about": "'A Bangalore auto at rest will remain...': Bengaluru traffic inspires 'new law of motion', netizens say ev  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Sat, 28 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQc2lFZDJ0X3Y3RnpaNS1aQldrVHlveTBoNnItRU81ZkxpZ2hDSkFuUmNZTzAzOG84UGRpVzVLNzVWREpBOEZtNV9Jc1hUbU80ZGVzUUdhbDZkeC1MVjFsRXI3aTJVQUhZdjRfcVZYQlAyckFnQ0Y5YVhoNHA0X3lZazhkVDEyc21MUWRNRzRQRFpvc1Y3RndMRGRNZW1hX1h5LTlCekZPR2taNGNDQnZpaFNaZjJhc1ZtOWRkMUI5T3dXdWFRZjI0MUpxeHhoX0xUTEFHT2VYYjR5bVlkc1J2N3h1Q3dSSklTVDladl9mOHEyXzVJZGhUSmFjQmFfV3F4akhOakRzWnJIazQ5bGNLOFZibUtfT05BYnZv0gGgAkFVX3lxTE9zRU1vN1JPN1pQMWhXX3BhRUxBRm1QLVpoY2tJUnc5SXJOZkR4RldEbmt5bGVyaHVFUk9fVmF5QnM5bTE2RmVKcE1pMHhsQzhJaWpzbldIX01mMTFhOG8wZDdsSjZZeU43dU5oUmVSSm9yUU5wdGE5UWJCTTRIOTM3U2pVZENFcTJEaVpDbmUyQnZMNEdBWURqYWptZ01ucHJFSG9Zd2N0TmlSWDBEVFYxbC10WTFEeDRfdlcwNFhoWkFvZ3RMZWdocGR4VUtfRDdrQXBsbzdlcl9qWEYyVVJXcW1DS1F0TVNuc1BtY3dfc005Umk2ZFV4X1ZURnF2eF85ajVJRldZWl82b3J2MjVVbmZPZHJ6OHJnNFdYWWtDQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 55
+            },
+            {
+              "title": "\"Chaar Jam Yatra\": Ex-Infosys CFO's Post On Bengaluru's Traffic Congestion Sparks Discussion - NDTV",
+              "about": "\"Chaar Jam Yatra\": Ex-Infosys CFO's Post On Bengaluru's Traffic Congestion Sparks Discussion  NDTV",
+              "publisher": "NDTV",
+              "date": "Thu, 13 Mar 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU29VcHZTS3FWdkRHQ0FSQ2ZNdW1XNFBIQmdMTnZWeGhVanh6QjlicG1WZHBycmpQWVBkZGhDTk5TQ19ObVg4enJHVmdCUFZtR0xlZGRTOHYtdzY2Z3puMUdCR2dsVS1ZektQcTlrT3BtYmVNdl84RmhHQng0RlIzSFVMWHp1VFN6ano4dzROMlRDY2Etd19VN2NFSjBCRk5wajltZWdsSU8xVUJxTGhXeDk3UEhKS0ppRk1SRFF1cDNKd9IBygFBVV95cUxNNzFhRzRBdERsM3I2bUVnUFJVSldsR2xLZXRCQ2lMRnIyWnBZOVhpRGNFSUJ1c0hlUkE0VWVYc0REUXFOTDd2TG1KWVMtN2l1cy1EbXA3TVBDcE9uV2ZtS1BydEJNUDA2bEVGaWVKTDZfTnRRdVI5RGN0RWdsUlB4aUpCeml5Tl9lU2NHQml0cWVrYWR4SXYyU056TGZMLUs1ejI0NHVTcjhyMmZXWVBrbnVzWVRUMTNUcmRWbEhDcFZrMW5PM2gyWkRn?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 56
+            },
+            {
+              "title": "Bengaluru Traffic At 3:30 AM? Resident Warns Of ‘Ticking Time Bomb’ Situation - News18",
+              "about": "Bengaluru Traffic At 3:30 AM? Resident Warns Of ‘Ticking Time Bomb’ Situation  News18",
+              "publisher": "News18",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnh5cVhDS2ZWbFEybDRQbnI4a0x4OTUwNkcxZ0g3ekhGSW9ZMEdLYjB0N1gzSzVCZWdBOUlhVlZhNE55LXRUTW1iLUxYZEZYQTd3VkExZjlLVEFTM2t6X1U0ZldrS1FUam1OMmlqUmRCQ0U3RXA1T0hBTWt6N1ZjS2pueS0tM0lReWY1cE1ESGhHRndkNXpKVmZLdDFBY1FyR3lyNWs0cnhOSWw3enRyVkJPQ3AxNU1NMGtsM3hCLVbSAcYBQVVfeXFMUG5KVE9lQzNiWHhqaEtIOVRTZnBMR1BxQjdoSTlPbXoxZGQ5R3RWZW5FMTRUM0pnWlhOWEJCclpEcklydHhuR3NsTjFhYXhIWWhrRXNPMFdIT1BQM2dJMWEzYmU0MExER3Z1ZjdXaE1fUERMYk1SZnAwanhTZGpYRDFZdVZ2ZjVWRHA0ZDdBb2U2aXowX3YzUmpFbGtpSmlIU043TkJzZkpXU3RkcVVjZjJrR3NtYWszUmZtV3dnMGpxWmtoTzZB?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 57
+            },
+            {
+              "title": "'Friend reached Dubai and am still stuck here': Instagram post on Bengaluru traffic goes viral; netizens - The Times of India",
+              "about": "'Friend reached Dubai and am still stuck here': Instagram post on Bengaluru traffic goes viral; netizens  The Times of India",
+              "publisher": "The Times of India",
+              "date": "Sun, 20 Jul 2025 06:26:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdE1Gam5iVnN5cTVmQWM3UldBNUNRV1JvaTczdEdHM1JveXZOaEpqWFAta3ZSTzZNQVdPYlZVV0lRandFVFVtOXZ6VGNPb3JmcWloNDltMjluVmNFWWFWUkpvU2hNcHc4dW9JaW1fdm5Bb2plSjVaWmtkei1PM3V5THZlVGhCN09WcE0wZGhFaVFiS2VCV2tDS0l5YS1Rb3ZDb29uTUpDeG9QZ3ByNFdCVExIWE12N2Q0a3lSSUJ0R3JJc2R1OFdQWTZINVJ3OG9xSW5Ic1k4OWl2d2VhallCaTltWXpSdUdsYUJzZUpXS0NJSjhtQXlYamwzQmMxenlJSk1RcdIBigJBVV95cUxQZTNBWElXTUJuVEw0ZFhPTW1rUnF1Y3hpTnpBYU9vS1p5dk82TG5LTDcwdHRxS2tzeGV6cDRiaWdzT3dMS1hBdjYzeUJGMXBPdmlqM2oyUi0wd2t4cjlVb25xVFFpZW9adTlHS1ZfeGxwMl9xTkRiZ0V4RHp1ZEZKcmlrT0pNYVM1ci1fYjRFWFdCLWpjMzJHdkpLMzhXalptSER3Szkza2hnQUc5X0ZXWFRkRGNvQS0wcHNXU25Fdzh5cnItWUhwLV93em9VbmdwbmU3Wk9vQmpINGIwRVpRRy1SX05QSU9UeU1jSEZldW9sdDN0YTJzUU5CbzExWHgtX3JGVm1MdlBLQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 58
+            },
+            {
+              "title": "B’luru takes traffic surveillance to the skies with drones - Deccan Herald",
+              "about": "B’luru takes traffic surveillance to the skies with drones  Deccan Herald",
+              "publisher": "Deccan Herald",
+              "date": "Sat, 17 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVMyS1V0U1puazNQUThjTmVWZm01YWFIalc5WUFvU201clFobk5tcmgycjVXTS1kLTRQSWFqbmRyek1sUTY3YndteGZDdlJCTjJHcjVpMkhDcks1Z2p4YlZJLThjT3VTdXBwN3ZzM0NXZ3BLbUdnQ0t5QjltaWhtMHFlU3VHNERqeE95ck9ZbWpjVjhlTWVodW5PcVktZXhQWEh5azl0eTdLYmE1QUlOVHZoSlloTlNWbXprZA?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 59
+            },
+            {
+              "title": "Travel entrepreneur offers AI-based solution worth ₹1 crore to solve Bengaluru’s traffic woes - The Hindu",
+              "about": "Travel entrepreneur offers AI-based solution worth ₹1 crore to solve Bengaluru’s traffic woes  The Hindu",
+              "publisher": "The Hindu",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ1NhanMtN3I5T01iakozMWU4LUU5SHg1WDBZb0FvcFdGSDk3NkR6OXl0VjlYcmtPRG5KSGRmWkRuSFBzZ3dYSEZYMUlXNl9jd0lnRjJsSHp2MU4xUUJQNEFrbEJlODJUaUJHT3ZjV3p1cTE1eHRscDdLM3NGcEtlazBQR0tFVW13a00xX3UweEdTQnczM1VKTGNudEkybUJQX3N4SkxMdW9qNDRKSHJVUUdLdC1vNWhJTHBCb0JCNHhlY0lrTDBMd29kY29TRE5Jc2tWbG9VX05QckxyYlFHRjhFQmxvYk9rS1cyY2ZnWdIB9gFBVV95cUxQTVR6OTl3MExVZXo1MVhwbTRqaVMtRWp0Ti1kVkdjNlYwc1RYU0Z6R1FMMkhDNEl4TW8zc0p2Qkl2U29uRElSMG1mUDBUM1BIakdfVlJQMGNFZ0pNbzhEQlZXSXBwR0VjWVlyWHM0bUlYLWhQbDRVWE85VlNDVHNMY1VqUzMwOWNwTGx3T1l4czRBdndFSEc1TUY0QTNubVlMU2d3Z3A5RU5pV3FPbVdRQ3BCeUNTS2JIMl9weHc5YXQzbjlITFpuT3NQbjBWUHM2UzR4aFVLREwxMFF3cnNmSlZOWDNQZVcya25oT0RvdDk5VjB6SEE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 60
+            },
+            {
+              "title": "‘Allow WFH in Bangalore and Mumbai’: Viral post slams time and energy lost to traffic, many echo sentiment | Trending - Hindustan Times - Hindustan Times",
+              "about": "‘Allow WFH in Bangalore and Mumbai’: Viral post slams time and energy lost to traffic, many echo sentiment | Trending - Hindustan Times  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Thu, 24 Jul 2025 09:58:57 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSUU5dHlCMm5TLXg4U1M0RFA3MVR0WHJxcmphaXMzS3FjM0xJeDN5RGdvRDlsWkI1ZVhsZVlRSk9TQm1yOEtkYVhfX1V0eFpNMXlJQ1RYbWRoWFVwdUNJTHhXczBKTWNSUzRXSXZmWFdWaFNuVU5GOWV4Sk1hR1FoUVo3TTdzVGVwUkp3VGFiX3h1WkxuN3hJV1R0SDdEODljQ25BQlBZV2ZPTjNuRDRXYmZwSjNYR2lUTW14RWVsYjF2NFdKRHpoXzNza2xOeG1oaUYtRlpFRHYzeXEtdEhvLWxwOUhFOUl5Wm54TGYtbkdYdUdlZXBJ0gH8AUFVX3lxTE9tQ21SUGhiQVFuYVp2Q0ozUjJrTkxYbE1oMEQyZ1IxdmZBSHNOWXBGSG9wY1dmVEF5NWM4ejFma05XVFRwQ2dxV0t2LTlDVS1sbUg4X3dpVWVyTkt0cHYtUS0wVGRpUW9uZjlkaG54eGRSdF85WE9kU2VYTlEwSUd4dnNzY1d3Z1VVOUlIX0wwMl9oN2pLb21wNjhlVTZtZmpSMXU5eUNmUTFIMFZVakJvNllsb29LZXZncHhHb1U3OFpTVjJBMXBxVGg5Q0U3a1RFUEU2UmFzUVdLaWFweXNCVlFybTRFUkFTbzFiMks1ZUUwbU9saUpiMkViVQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 61
+            },
+            {
+              "title": "40 Minutes for 3 Km: Bengaluru Man’s Traffic Struggle Goes Viral, Netizens Say ‘Better Finish Lunch and Login’ - The Logical Indian",
+              "about": "40 Minutes for 3 Km: Bengaluru Man’s Traffic Struggle Goes Viral, Netizens Say ‘Better Finish Lunch and Login’  The Logical Indian",
+              "publisher": "The Logical Indian",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTJ3aUhHNmRkMzZpMVJWc1ZYUEZmZmpDeGhlSWpvUjlwNF9UdWZLalhaODRHTDl2c0g5dDVWaWs0QU5CZm8zd2NiWDdZY0Z6XzA0UnBSOUpYQjVwSkp0a3ZEdFVvZjl4enlVRnVzTlFVVmNoMEFxdmtHMzRtUFd6T1ZZYldZRDFSUGRmNFMtSU40NmdZemZ5b2tpRTZVVHI3cUJsQzVGXzIzWXk0WEZtOTAteVRBX2VNeWIxZVN3aTVBSk9hNGc4V1R5WGhXc0Vs?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 63
+            },
+            {
+              "title": "Bengaluru man comes up with 'Newton's fourth law of motion' after being stuck in traffic - India TV News",
+              "about": "Bengaluru man comes up with 'Newton's fourth law of motion' after being stuck in traffic  India TV News",
+              "publisher": "India TV News",
+              "date": "Sun, 29 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVjByVDV6eWlYWDBEM0VXVHZiVU5OR1Qxa3lHXzVRQm9LcjVTcE82Zy1PcGtleXRVQTFMUDJRckFmMFl1Zm15MGNmWUl3WWpWNW5vbVpkajR3bURwS19aVkR3QmZWTkE3T3hNWGJpbWJzNF9EaG90VnhGTzZTbjdQSTZjOWlEQXVSZzV5a0M3V0VoRFhKTVI4dnFKNEx4VTI3WVAzeXBPWm43UUk3dEYyNGVpbzNqX3F4eDd3U3RhSkxwaU1WbVVUU3RabXExbHJ2UHd2c2lWc0hpN1E3QzNZ0gHkAUFVX3lxTFBmME15RjZyTUxseFdMQ2ktN2dkeTllellUMlBOZzZUbG5xdDQxTHRualh5MlhydjN4d2Ryd09RRzVKbFNrd0tqcy12MC00SEhOSEZid0o1TFZTcjR5Q3NGRjRWMVNjemtlbmFnTHVoc0dQbVg5ZVlJMXFVcGJnVE1nWkZVek14SXBXY0JnWHZlaVc2cnFUX1VkZ0dMVWY2aDhXZzFUWER3YkpsZHdwcFJrN0ZydW1qWTJJdFRBUWNFZXVfT3hTQ01EbVNMZzZFWW1vandkM2ZjbWg5MGlJc0RZTnZCbQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 65
+            },
+            {
+              "title": "After ‘even God can’t fix Bengaluru traffic’ remark, DK Shivakumar rolls out solutions - The Times of India",
+              "about": "After ‘even God can’t fix Bengaluru traffic’ remark, DK Shivakumar rolls out solutions  The Times of India",
+              "publisher": "The Times of India",
+              "date": "Fri, 14 Mar 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUVZHWDZHZEhzWlZmMDBTOV9YbXhUdVFWd294bXI5d1RSem9pQlZNQlRoTzdtN2JnaXppT0lFY21vVW02Q3BwV2FfZWxuSUhBVllkSzNjN0FaT1JQRzBMOW12MjM2alYzZmNrYXBjeWxDZzlkeWJxUWk1UkVhZDlWX3VTaW04bWFGQlB3RDNscDR4NFotSUlwTTNaTDliNU9oYmVTNmh2WV9RY2w5S2JxNnJ6aXFZR25yaGt4MkFERmg3ZktCSkRtdXd5RUtqd19UMmNIYnI4cjVhZUpX0gHiAUFVX3lxTE01eWhTNGtuQ1VqS2E2aUZPeE1OVUMwRkdiYXRXMGU3VVFVaGw2RWhWWHpTQWFwR2ZlTVRJTG96RzVNc0l4NS1ORE1aNjdhci1UTElqTFZ0WjN0SzRlY1FQZXRiT0ZMSk1LbHhJYnhXUzdmZkd3OXV5X2kwU25IMnFId3Q1SUNKblBFZmxxRjZkM0g5N0FMd1lKU2pLTERWVXRzaWY2aHJtN1FOdnJmbm0wYUJjMk9CRnFuVjRzOGlDMFhxeGpFQXJqZEhKYjZObG9iSElQalpaWG5NZU1raWw3T0E?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 66
+            },
+            {
+              "title": "‘Walking may be faster…’: Commuters lament over Bengaluru's traffic on social media - Hindustan Times",
+              "about": "‘Walking may be faster…’: Commuters lament over Bengaluru's traffic on social media  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Tue, 08 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa21aVmh0MmV2eGwzSUpSUklHT1ZsbmVuOVp1dktpVXEwWG9UOWJDcklQRld0SWhVVWd2eTZaTDd0U2oxUzBIaDFVZE5QVnh3Z25UUlphMjNYQW1zU0sxZlpEeTI1TW8ycHM0ZlVRTy1iYkVzN0J3VkUxWGRfTlFoazcyVVZaSDkxaGFRSUJQcFVLMzY1MjVhWmZGMEdfVGtEWFZJN0kwWWdIcVZrejlrSVJ1b0hxd24xTV8tY0FaMWJrUGhfXzZSZTBCREI2WEVnX1VXek1XSmc5cUxweVRqNFFEM1NEdGM?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 67
+            },
+            {
+              "title": "Bengaluru woman says friend reached Dubai before she got out of city traffic - India Today",
+              "about": "Bengaluru woman says friend reached Dubai before she got out of city traffic  India Today",
+              "publisher": "India Today",
+              "date": "Sun, 20 Jul 2025 04:55:34 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNllkRzYyWTA0UGYyQ3pjZmxCdHpoekJmQlR1ZW15VnRRbDFDd2RobmVhM3RVWWRWa0pFUnZlM3BsWmdVQTZPU1FDNS1KUWo1QUNCUFdGQ2xYbVdMbUNEVHhOeG1XVU80eDdYbFVtajB6aXRpek5HaEdabllKclFxS1l3aXFacC1JSlBwX0ZMaldLX01HUy1BeERYY2x4SGFEc3lzb3o2SmE5ei1nZ3ZmMEtqNUVkaVYtOXJPNzdobjF5b1IyeXFsUkpVaGlCZ3NWS0U0T0lCLXVrTEdmTWRyakxNbDFiVDBp0gHuAUFVX3lxTE9xVU1PZWJyVVluVWRINGp5TVhKbVYxdl9LZXdVbmpRU05LcjVMN0ZPYnFLQ0o5SDJkRHdqYncxTmY3NUdUSlZjZ0hsNHVJLTBIWHhobmJ0WFQ4SXRxdDZEQTU4T2J3TXRwcXFQMlFDVUlxWk5SVy00OVVyN3diSXlHQ2taVTRiUXhiVkNFcmNyN0J0aERPa2o0dmFPbVRaankzLVlOWHV6VzlSSi1ZcE42aDkwUDRjc3B0WUstbThBUW5mU1h6SF9GUjdLSDV3alNIb1l1Z1k2SWh0V2U5NURQRUZwNTJ2SmRqbGtUUXc?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 68
+            },
+            {
+              "title": "‘Friend reached Dubai, I'm still in Bengaluru traffic’: Viral post mocking city called ‘not true’ by locals - Hindustan Times",
+              "about": "‘Friend reached Dubai, I'm still in Bengaluru traffic’: Viral post mocking city called ‘not true’ by locals  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Sat, 19 Jul 2025 10:14:21 GMT",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa2VodGYwdHlaY1lKbEtKallQWUFsdlhMUUtUTUVyVWU2b2hFYXJSWkRLTjlRNGtaQkZQY2EwQTdTVmV2b3B1RzVBRWhjZkdISFRBT0RnUm0wbWtrZGRiSzNrb0J4QW9mZG9UZXN5bEIxeDRYN1RKWjVnd2RpNUozdW5LUnhFSjRpRTZHV2RSTGtWN1poN2NiUkhJWi01YzNjdGM1V3ljNHBkbHc5WnhJZXBZdE8zNXFGRmlmMjBZLUlaZFMtdWRGZnFQNVhkQXZreUZPUXJ1dm1hcXlQVWdlODBwSzVxdy1ySVZWOGRCVS1SbklkUldPdkxFWW1Dd0xGNGhBYw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 69
+            },
+            {
+              "title": "VAC signals require 6% to 17% manual interference to accommodate Bengaluru traffic - The Hindu",
+              "about": "VAC signals require 6% to 17% manual interference to accommodate Bengaluru traffic  The Hindu",
+              "publisher": "The Hindu",
+              "date": "Sun, 27 Apr 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGhSQnV0VGFPWjBpUWtJWWltdEFDV3JGa0F2dXd1ZXM5YkswUDFEZlpNd0ZDUVoyMUxqZ0lIb3RJTDN3QnB5SjN1cWFKQzJabzZqLVBLR0pKaFRYYXhCeEhjamdPSXNPcFdGdHhleHJRRkw3bk9sZm9uWnpIOFVSaEFYcmJHLWlXcXc2cFV1X1hQQ0g4YmNuaUszMHlTcTd1YmJGNmF6dGlsTURNbFZRR1pRaWdiYnFFdUMwNU1XWHc3ajdDdVU2OEM0VzV5MGxOd3ljWnZIUDBTenRVUmFnQtIB5wFBVV95cUxOMDVKeWkwT2JBdlEtWHJwbjl1VkZKcmZxM0VaMmFjeFlJdUZ0aFdfV25wU2R3cmJUbGlWVC1YQmZ0ZGJ5VDEtaE1lRVFqaUNCY2Q5cGhVWkp2U085OFhFVFRhYUxMQVBGVHBfelZTLVpwcTBvZHVmdjRYWXQ2bF9QSmdEWEctTU1GTUg5N3dYVEVKTHllNWZPdWJwQ0h0bkZvUmdDdWlyWU9uVVVVZTBER3BVUU5Udks4bHMteUlOa212d3hqWjJqSkhSWi1Qcld6aUtNT290QXdUQUlpU1dGVHZMMmE4V0U?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 71
+            },
+            {
+              "title": "Woman Drops Friend At Airport. Hours Later, One Is In Dubai, The Other’s Still In Bengaluru Traffic - News18",
+              "about": "Woman Drops Friend At Airport. Hours Later, One Is In Dubai, The Other’s Still In Bengaluru Traffic  News18",
+              "publisher": "News18",
+              "date": "Mon, 21 Jul 2025 05:21:48 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGhDWG9jZ1B3cExzVUxuU3M3Z01tQzdSZ0RlWF9palVLZnA0R29XRXR1dzlOZlVNcGNlc0gtdDFsTTJDWDBQQjJidXU1Sjk0QklfeVVxWFVxSWNrMkpwQ3podGJNYVhqejlfU0FkWEF6M3FTRC04YXptWVdjQUZUWXVjbHB5QklfRGhZVURneE9xX0tEVUNuMndRTkJ4dnZFS2RhSnVZeHRaMTNBVGc4Vy12Q18zdWxqRDF0eUpTc0o0QzJtRDNZZnFmZE1hbGhXZkY0?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 72
+            },
+            {
+              "title": "Traffic trouble for CBD as Residency Road stretch shut for white-topping - Deccan Herald",
+              "about": "Traffic trouble for CBD as Residency Road stretch shut for white-topping  Deccan Herald",
+              "publisher": "Deccan Herald",
+              "date": "Sun, 18 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOam9Ha0pkY2tWMk1LOTgxc1lWSG9kUDhZdTh2cXpXWlg1ckw0MkV6RENtZ1lMUmQ2X2F4VFlpUkc1eTAxS0lGRjFsTGl3b09mQXRUOVVQRGQzd0ZnWW1xLWJVMnZiUV84c0F4U3F3MUFnT0JJWUFoMkJrZEdzZzNiVWU2VkZfcDZqYUFWX2NUdHI4Z2x2bU5aNVZCdm5yZmhOYmNkRU9VMXc5VVE0UnRueExnMEp6d2xBSGJYbjMzbXNFVGNHU1VPQi1WZHYzVDNl?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 74
+            },
+            {
+              "title": "DK Shivakumar 'takes serious responsibility' of IT capital after claiming 'even god can't fix Bengaluru tr - The Economic Times",
+              "about": "DK Shivakumar 'takes serious responsibility' of IT capital after claiming 'even god can't fix Bengaluru tr  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Fri, 14 Mar 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOeU1SMXU5cFF1dmE5OWtRaEQyOWJ0TVdXQVRJcmxnM1lJZ3JZaUFKX083TXhsOTZQZXU0ZXBocENvRlhEbUN2MElvbkI0ZE5IS3ZZdkk4T2RKTE4xZ0F5TlNRLUtNemJrRGxidnlGQXZiU0N5YkZFRWdBZVVXekVQUzJSX05zaExENjlxXzBCc1I4VGJJUDdDVlRlakVTaWlvZ0pRY3dfODdrRjI2enlRdzU1c09KWXFoR1RtNHdaY2ZyY3FQQkZCcDdhcVFjSEFGeEJ2Z29lVnBmVjcxeVdRQkdDYWpSRHA5WVpKU0hQVFo5MW5hU21Ec1NVcW5qVDNnZ0VKRFpCQm9hVFEtS05jSUk4M2VNU05yam5lbVlDNlhqQlNycFI1ZNIBrgJBVV95cUxPYnpfc2ZXeFVEdjNOOGdqVzBFS2RYUFhzdWhacW4zaHJWYk9EeFJsaXNVbU1zc1hBRWRQdDdRajUxbDdCTEJMQjFyNVdxWURCMW1ockR0WmI0ZjkwYVBiSHpqTjVlNVZSRFFseEtRM2RxWHVrbUZhN0liVWZITm9zYWlqdVRBVmEyUzdMaVZNeHY0MklzcW1qWEk2VjhTZ1ZHU2J3eG9IX05PejkzR0FCTmFpWmg5Nzh1d0d6TEU1T3gxZ3U2b25xbU5JeWRod0VSVFBmd1liVUIzOWFYZ3pLSVNHVHJaZWxvNlRnanM3M2dYMWpxZWYxTHJsUzl5dV9wdlZNdDlxcjdDVTFDMEthcC11WGlZR3hXOHR0YlhQR1QyMThoc0dEcWN0ZllrQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 75
+            },
+            {
+              "title": "With toll, Bengaluru tunnel road may add to traffic snarls and add 22 gridlocks: Detailed Project Report - The Indian Express",
+              "about": "With toll, Bengaluru tunnel road may add to traffic snarls and add 22 gridlocks: Detailed Project Report  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Mon, 21 Jul 2025 13:40:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm5VNXRLaVFxUHZYbnNfdGcwMS1kTWRfQlNJZmpvZ0ZkMWhlek5HOXdGcVFlYVlnN2FSYmxqOFhobzMyMmI1WjN4UjBsNF9jX0laTkhkdnhYb3dqZ0tmM1A4VmYyTEVFNDhGTTB2b0hWZ0hONzJhN1dpU0xWT3czcmtHOGNtWkV4RHhRUkNueHFKSUhMT0FRY1k0bklxVlppOUNyY3NkLVhGcjZzQTdxNEZjQ1JZT0NaZ1VER0htZldRRWdpVTBWXzVaMFdVM0p1dk5hbjlXWkLSAd8BQVVfeXFMTXdaOTd3UFNVUXNhT0hEcVIybGpHUEh0VnkxYWR2SXpaRXg2aldFZXV2SGwxamRYMHB0YlYzQTJKUnl3NlpGSkVxVWtwWE5TcjQ4dUQzMFJIa0dCa1pxc1ZsR0wwWnNMZFlhRmlXWmFJQ2pnVW1OWWdENldOT0lsOGJWR2hYbV9JUTQ4Z0tJcFYxN0J6NlpKSlBVeUZhQW5IdXg1VHN4ZU4ybmk4YzY1Nl9hdjhBY2lDR2hCaVp4RjJxWlo4UG9IM3NSNk1jclZqdV82YmZDU0hwbGsybnZ5bw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 76
+            },
+            {
+              "title": "'1 km In 1 Hour': Bengaluru Resident's Rant Over Commute To Nearby Building - MSN",
+              "about": "'1 km In 1 Hour': Bengaluru Resident's Rant Over Commute To Nearby Building  MSN",
+              "publisher": "MSN",
+              "date": "Wed, 23 Jul 2025 07:46:33 GMT",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVVqeFZKQmt5OV91NG5FRzhVbGRTeFZ5LUFqRVhVVVNoVE9Zd09FQUlKQXkxb0lXMVB6RzVZQjRZT2dVdEVWM1dhNUJHUDBfUFlBVmM0QUkyc29qcHBPY3lFaXcwLTBQdE51Nnl4c3lSME1NcV9ITTBMNmhhQUlGdWdKbTF5LVU4MlJ2OWZZdzBJbHRBTzN0akp4dE9HeURBeFlXREhrYklmOFV0ZDh6RFBXUE8xMDY3MU1pYVdn?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 77
+            },
+            {
+              "title": "'Bengaluru traffic is insane': Sabeer Bhatia says he rides same distance on cycle in 1/3 the time in SF - Moneycontrol",
+              "about": "'Bengaluru traffic is insane': Sabeer Bhatia says he rides same distance on cycle in 1/3 the time in SF  Moneycontrol",
+              "publisher": "Moneycontrol",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQk1sQUpjRUFPQjBzZHRDUVEzbHFZS2E4VThCXzd2NlhnTVFWbTJzR09VbXV5X3Z1WXBwX1lwd0YzY0VBZlkwMEFITVJhTmtqUVZJRS1hbEM2S2xxaktaOHlacURrQUY4SHUxSXNuS0YxUk9FQmVzbTMyY1JWenY4c3FlYVN1ZHFZeHQzOGplTkhWbGRINVFlUjVJN0JrT0prUkJBVDZORXRIUU45c3I3dHRlZ1ZJMGhFLVJkejVzZGM4dHVYaV9YMTloa1kwVEhobTdsclBvTXRrQ0h6VVVabnh1bnNhTWJVeHpV0gHwAUFVX3lxTFA5U19sTmx1MlFkSzhkY2ZkdUV4eGhqWFZGeUpNVXpiNUlWZVE1UHZhdFI5RnQyaVgzN0xGajdZY2VrZ3JmUHlBSnFZRFFfbFpsZDJwZmFzN2RQTnMtb21vdXZSMFg4cW9kUUx2Z1p0YUNacXA0LWFnVFVzU2s0T29QSlg3NFVveFRybmNKeHhqaGZjV2cxdE9CbzhCRnBvWTE3UHJqaXVlNHhpMnBSUjJiV0Exd1hQOGo1UkkzMjJlbmZLV01xcGoyclVIQmFUQnlKNDk3WUpBNnFoVmZLSS1MNXVnTFlJam5UQkpOQWdSLQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 78
+            },
+            {
+              "title": "Bengaluru’s traffic nightmare isn’t just a meme: Nikhil Kamath asks if VIPs are above the law, Police expl - The Economic Times",
+              "about": "Bengaluru’s traffic nightmare isn’t just a meme: Nikhil Kamath asks if VIPs are above the law, Police expl  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Mon, 12 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeld6N1ZUM2hhMmFSUnlOOVkzb0g3cmhvMGdYUThSUFNTWGZaMDVpb212WFo4Wjc1YUpSLUYyVXhHcmFla21TWkc4VkdVNm9lS1BPR2lURVRqT3RNbVpEaWJlZzZsd2QwZElFTFgtUUVtc0R5TUhyY3RzUGRDc19VSDFwUG1lRXMyTktNS0Z1U0N5MGxMajV2S053aG51c1VyR053YkhqdzZ6OUpITFRYZTVudURzOE1aM3FXTHI0NFU4bnNIb0V0VlAwTTl0V3NraUpBM0ZfUHZ0VEN3ZWRLZVloemU5TGd2VU51UWNEemxtNXRnaHMyTTlRQ0NONm9WVVhwZFZTZmM5SFdpS1FDc3lfN2FRQnV0TmpMcWhrNlRMcWhv0gGqAkFVX3lxTE02TUVuOVBBQy1TRTBVc0l2a1lhalVIRXBMU1JHa2Q5ekE3ZG9BMDVFZW5yNUVpWWJVMWI1MEdTTzlwQVYzaE9MSUoxYVc2dGlmdDZTNEhkMVU5azZaTE9jRHFCWDVza0s0NGxONG5KVWRrUjdRTF9feldFZ2d4WGNjSFgxZTFWS1pBOUNCOFlvM0VXclRISEkzaWNqblMwcnVadFBDWUlHZVl5S2RqLXp6VFRIbTVzWFdnZFhCVjZueVZvU2lMZ0tsMXFQeGRTa0dtcGFHUUVVeTFnMklmbldoM0cyS1N5REpYOW51VXBaUW5QcGRfVHQ2Z3BHNjJUblVGTEF0Ql9lOGN3LUlVQU9SSlU1QjB0OVBnb1c4ME9hWmtPTlFiQUhfN2c?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 79
+            },
+            {
+              "title": "Feels like mid-week crisis - Bangalore Mirror",
+              "about": "Feels like mid-week crisis  Bangalore Mirror",
+              "publisher": "Bangalore Mirror",
+              "date": "Mon, 30 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGQ1TEpYZy1DV2JvVjFlNFpCNTNZbUtQR0xQN203V1VmYjJiRTZBcDBlRl9pUUNqQjAwcy1RZTRPdFJ5am1nZUN2d0NRMWNwRFAxR3k0dFJ0c1JsYU16b0xFTUhIVUg3WFcxbTFPOHdER0tqQVd2TE5rMDVnbjJhN1dxMFc1X1U2SmlNc1U0eV9BSEY3bTFmNFRfLVplQWV1aXpZbE5Ibmtud3Zvd0tFbktKRdIBuAFBVV95cUxQeXFPaUF6Y1Y4YU1kVnlQQ0djSGpqRDN1SFc4Uk1wYVVUOVR0UVM2SzItT2tyZlFWT0V2WkZnbjVsV0o1a1RjQkNWVlJ0ZU9IZVJacDFwTk9pNUw5UUxSTWF4NHQ2cHlOQmV0TnUwRHZEMktfcEtEdUMwY19uWW9lREFLTlJRMUx3alBUV21xeGFhakJrbmlZaUFiZlh6NldzNy02ZmdsQ3V2RUV5RGQ3dnZEZXhSTEJ6?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 80
+            },
+            {
+              "title": "Want to beat Bengaluru traffic? Billionaire Kiran Mazumdar-Shaw shares solution with Exxon Mobil’s ‘Iron L - The Economic Times",
+              "about": "Want to beat Bengaluru traffic? Billionaire Kiran Mazumdar-Shaw shares solution with Exxon Mobil’s ‘Iron L  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Wed, 28 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaGZHamZORkhPRkQ5LU5SRFp6Q3NxSHJKNERrcTlCNHVVTV81Y0l4ZDE1UmZYZFpSVXhKYzl0WmMxZWViUFFoT01iZm5kbC15UXZiX0dYTUZyYWZuNWlJQjFWejN6RjBiaHFfTzZDeEtmbHRkMms5NTFfUUZieVBweGVYd3Qwa1VDYjM5VjRoX1JYOHNTMVgtbnlpQ2I2N3VqdlBCazdRWTA2Ukt1OHJfOHpEbGR4Z0pIeXNvM3pxQ0Q1RWx0d2pOTVl1UEU5ZlhZb2R2T1BHWF9PRXJONXQ1aUFienhpZEJqcFBFU3RScEV2a2hpV0lwTWtkb21XaVFEZ0o3eTYxTTVwbW9t0gGSAkFVX3lxTE1yM20wQ2pXSS1YY19hZkg1ak5EVmxvdENxdjZReGxkZjJxa0xtbnRpT00zTldkRWIyNjQxdE12VWUwbU5BWGxLeE5pblo4ZWNGaktLTE9ZRl9LbDlGTjE5RXdSTHVxUUFMUDhFaW1sX0Rsd3F5V2Z1amhVNGJLaU9PMXN2ZXFhWk9nSW9SVkdld1p3cktYa3U1M0NEMzdjRjgtOFc4UHFTUXcxSTlBdjhURUxLdFJCblNaUUcyeEExblNJcXRZTVhqcE1mNkNQYTgtcWYyRXZ3aUxxU3lVU2tCRXdzX0RNRWQtNldLQXhTNXRrbFdiOEduY3FHS1pXek84cHF0S09ZQ1E0enR0NmRDelE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 81
+            },
+            {
+              "title": "BMTC steps in to solve ORR agony - The Times of India",
+              "about": "BMTC steps in to solve ORR agony  The Times of India",
+              "publisher": "The Times of India",
+              "date": "Sat, 19 Jul 2025 09:42:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlpLX2pFd21iRi1GQjBDc19JNTl4YUJsMHk2UDBhcUlUZVJ4MWRja2NtLVFfVU5ITnBjS1o3elMycVpXcURPZEhJNW9tT3F1VjdLbG9WRXBHQnVpbEJ5VHJQRDJXbDV4aFdTM214TlgteXQ3dXROb2ZvemFLbU1GSnJtWFNNbF9uaVdVYkpLT21SSzJHWG5mVVZmbVFoN215OUt2anNydjBUOTJ5aUHSAbMBQVVfeXFMTzdSVS00aURVUVJSV05XTlpSZjNoMXFXbG51d2xlR3BDam93X3M4UHdsUWhMdzR0aHZFN3dDYnZ6Zy1BdVNmaTVqZ09PUTBRM0F1b0ZZeE9PY2QzZUZMakRvMHA5ZnRxX1hFeWI5QXRkUFR0ZHUzS290ZUVFdmZhSmNMOG5OLW1qeW84aVFwVXBwU0dYZjhoa1dzWkxJOTVqM0IwUUJWb0oxckZvdXZIakNPUnM?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 82
+            },
+            {
+              "title": "Techie thinks Bengaluru's traffic jams can be the answer to Narayana Murthy's 70-hr-a-week work plan - The Economic Times",
+              "about": "Techie thinks Bengaluru's traffic jams can be the answer to Narayana Murthy's 70-hr-a-week work plan  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Sat, 25 Jan 2025 08:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdDR5d2F3NlFpbkI1LVlmbXloRHZ0emp6WlVKWVhTMjF2OXdEMjJvNzJ5V21NZXFZZDd1aF9pcHlQQXgzY1Q4V3BIZGJyaDhSMEN4Y0s0YVlKVkF1UnZIcjVqUGtCMlJ5Q2RPemxHaHVVSnV6MTA2YXhOc1J0UnpZNjUxMDllOFU1aU9JVnd2cnpma3NqV3BkRTJfT0JRbkFBYkNpeUMwbDUwTVlMYmU3bDA5T0lHeENXMFgwZFdydVR2ZmMtSFN3RjFYSEQ4SlZLa1I3Skc4TFFwd2RvVlVnbnBkeDM5Vng5N1A0WmpuYnFWWDd0ZFg4YThHZ0cxWFXSAYQCQVVfeXFMTmZ5ZnNad1BMMUUyNUdfNnFiWDFPRW40RG9fSnVLNHJRYVNfLUdMR3dONnRrcTBlWTJRYXZ0VnJ2Q0VhN2FSZXFoWWo1Mms1NXRtSHVxM2Q1ejduYld1YzhFeFZvNVh0REpETHQ1WEctR1ZOOXVxRmJzcm5JSEUwU3lFenJrUkU0dzhXUVNEVjBXQ2JWdV9HTGc0X1NVa0RSUmVvOGhZVE1nRkJ6Q0tKY2pfdUhSSjdwRkVaRGdjMnNkQ1dCVzdYbGhpT0J1VWRmYnpRYkxsaDBBUG5NQUlSUnVkUFJfd2hYWHI4d0ZWTDliTlBZQlMxa1QwdnJVR3Z5VUEzaWc?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 83
+            },
+            {
+              "title": "Travelling From India To Dubai vs Crossing Bengaluru Traffic– What Is Faster? Apparently, Dubai’s The Winner - Times Now",
+              "about": "Travelling From India To Dubai vs Crossing Bengaluru Traffic– What Is Faster? Apparently, Dubai’s The Winner  Times Now",
+              "publisher": "Times Now",
+              "date": "Mon, 21 Jul 2025 09:41:20 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVA3RHUyWHZTMldsVE4xQ2QwQ3dXbGtWVWUyRHNzNzlXZnBucGRqdEtzSWZZVHVQRjJWRkRPay0wUGVYbFJoRkFJQUVKdWtIYklsWWhzOF90N0VTMm1yejkzWDZGR1cxcEpzN3p2MTNfalFna0Z4a2tILXBYMWsxVkdIRXFKNVpBTzFfMGg5dDV6OE16cTZqNE5yQ0dpZy1lTXpaUzBPYmFIbDFsTlFsaTlKTHFRNDlsMXlBbVhWQi1NODkxMlJOcXNqZTNTdm9pTHFLclU5MUJzRWo5aWhneEJad196OF9sS0ptUjlLTzdDOGVK0gH6AUFVX3lxTE1tZ3YyY0NUVUdJX3hrTlhIbnhWOEF5dkQyaFpPMGtwekR0T1BSQmJrVTlHVzFSWFN4aEExUm93VFU2TWZLdUVhY0ZWeUhra2JJVEJxM2FxSlIyTGlsRGtZN3pHWlVQU2hhWHR2Tm5OWHdEVzY2NVpldVBMV0VGSlB0VjNCb2xPTU9waHVVU01OanVuZWNaNzNPMTVVZXI1MFF0LXJta1RvYXc3MkpoWjNMTXBnZURTWEpZeG9yZGdFeW9hNmQ1U0s3NTEyMEV0RzJfVkxSTzBKXzU3U3h2a1Z6ZEE1VGFIVXNuV3RLd1N0NGZGejZZMVFObVE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "neutral",
+              "article_index": 84
+            },
+            {
+              "title": "Bengaluru traffic worsens by 18% within a week of bike taxi ban: Report - Hindustan Times",
+              "about": "Bengaluru traffic worsens by 18% within a week of bike taxi ban: Report  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Tue, 24 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdzJ1WFdnZFpCeEQ5MXdVTlNFaDZTM2JobHAxV2E4UTFIdm05a0lhVDBzTS0tcjVBS0tVX0pJS0d2eFFDbmFWS0RWMEE2aHJRYVl4dF9nMl94TUxEa09valc0czkzdS0zenZPRDBMakJOTDBsMzdnT0lmOEprOVFHNzVzY1dqeUVsSy1KWXJ0Rjc3UUE0RkVGS2FZR0hRc2IxYTZDcXA1WmN2c3B2eWg3T2phRl9kWjJCQ0VuMUUwUk1BRFRONTJLSTloSTQydGtsUzI0djRmVVcxZzg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 85
+            },
+            {
+              "title": "100-Mins Jam for 11 KM: Stuck in Bengaluru Traffic, This Man Pledges ₹1 Cr to Fix Choke Points - Times Now",
+              "about": "100-Mins Jam for 11 KM: Stuck in Bengaluru Traffic, This Man Pledges ₹1 Cr to Fix Choke Points  Times Now",
+              "publisher": "Times Now",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYTBKRUJwbWh4OXY1akNrbTlWSnk0WFM4SGNZMXFuQy0tWFJDZzdpc2Jha1hUSmJvbEN2SkhLUG1XVlN2aXR6SHp0cEUtUzY1V1d4QzZtVUpHR1FtbU9oTk1pTEFFc0N1bE13OVYwSElMYXdwS0JxRFhkT2lzLWlwMmR6Sl9GQUlWMkFSUVVTTzNfbGVNUk5IQnFDb2RZZ2plZjAtcG9UNXBMc1g5clVlMkJBb3B1ZHlTaFg3ck51NEluMjczZ1lJbmhVOHFuS1NMYTNIV2NwZkZvUm1IVUtTZTZ0Zml4UG12aHpmRkhKUnBEeG9ET3fSAfsBQVVfeXFMT1JnaUxtVXAtbjlKZGwwSzFqRnRMVE8zTnRWZGFUWXVBTHFHcGRzWlpMSmJBcWllMkNHdzZZUnlPcUlBSk9xTnhEVDR4ZFBQVVdFNGh4QmVHSVI4MGY2UjhSUjdPR0lfSktjc05kYzVzMUt0SFNoQlBlVnNUanBkLTB5LXlfQWxkcGMwcHVFSXM0clBrYlBZNGNxbjFMZWF5RGtzWUswR0JwV0Z5Z2x4S1NkVTYyMVhUdXlBOHpVbUF1emFzQkdacDZ1UFdrdkRzbUpIUExKUExfNGgydDVYV3lWMWgwUG16R2lUc3ExWHVaclpEdnlIQUdxRWM?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 86
+            },
+            {
+              "title": "Nikhil Kamath asks top cops if there’s a solution to Bengaluru’s traffic woes, here’s what they say - The Indian Express",
+              "about": "Nikhil Kamath asks top cops if there’s a solution to Bengaluru’s traffic woes, here’s what they say  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Tue, 13 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFI2eGVfSFZIcDhXSWMzZnVaVmFmSTBaQlBrMDFxMXFSNGoyaTVBZzQ0WDlKQmJsRVN4NFUtMWQ4Z3dIMUNVX0ZXamg5elZ0Ni1NREtaVjJBV1UyalYzQUNWbHM2M0tjbzhoUVNMS1RhMGl0ZzhtbDF4a2JpelhIMHFDUXhuSVJtOEFtb1ZnR0gxT3hXenNfMWhlN2hta3N1bGw3d2pFNHVGekFrcVByT1h4U1JKa3ZXUVYzaEdB0gHEAUFVX3lxTE01aFM5YlBUSG9sM09ETkZ5OEFQblJKOVd1VHZnSS1YS00xTHlBT0pMeFB2UWIzM0NPOXhPV0pGRHhXUHZjNTBWazhRaXpHVUUxcUlqY05qVXpqcGFHU1JEcDZVQjloMHJHRXphWkxNMGNQYnlrZGV4SU9NaHEwajBYM3lNU3JDczdIUE5uUGtVakRFT3dUZnBxWTVfM2NVVGdzRkJvak8xR2JpNTk1NlJnbGxOMThVTjZyV2xBaUZpUUItRWE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 87
+            },
+            {
+              "title": "‘Will I reach office before lunch?’ Bengaluru man stuck in traffic for 40 minutes to cover 3 km | Trending - Hindustan Times - Hindustan Times",
+              "about": "‘Will I reach office before lunch?’ Bengaluru man stuck in traffic for 40 minutes to cover 3 km | Trending - Hindustan Times  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVnFCcV9jVWhVMkpZLXBTUllkS2M3ZEJrQkdZVmY5cG1ISy1SdzVfRFVpVzVrTzVsTjJTeWVnYVRFZWlBYjdQZjVKRTdPWXhVWldPcTNWSUVFTGoxdVZEckZUYUdvUS04YjRRM2EzRk5DVnZGckNpMEluQlp2Yl9IRGR2dzRWanRETWRHb1dkWUZDbmtMcmlVZDY4X0ZsMUZjRUVmajJZT2xlanU4UklvZl9iZV9MYVdUZ0NWMF9VOHRlR3A5MTdoME1UcHpmWkdrQ3hveTJQY3pKVHJZODdNSmpNMXppX2xxb0UyOUpDQUl6el9KSEk40gH8AUFVX3lxTE4zZC1kTkdMMk5nMVE1T00tRTFTdExLZWY2YkhnT1RZX2ZOVkVsdzFfbUZnRGV3ZkVRTk95YVlxeWt0WUN5ZFF5SXhnNzhZcWo3MHY5NlFsLWNZYVU1dHMwSS1PemVXWC00UmpEem5PUEZSSHJXTVcwMzJ4TXpPeVNpclZpVUd4WlFtX1pUcDNLenVteFhqWlNySWdNR0V3VU42dURKclZqSFhoZ0FkMzRZWGpGaFF2aWVrTW1rRWNPUndTU0tvQURobnlucDlBMnVvdFp4ams5RkJpZ0NtMkF0N1YtcEp4elpvanJBWDJ2N3V5YkhNYS1iMFo2dw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 88
+            },
+            {
+              "title": "Want to experience Bengaluru traffic? Sign up for this 4-day 'Chaar Jam Yatra' shared by ex-Infosys direct - The Economic Times",
+              "about": "Want to experience Bengaluru traffic? Sign up for this 4-day 'Chaar Jam Yatra' shared by ex-Infosys direct  The Economic Times",
+              "publisher": "The Economic Times",
+              "date": "Thu, 13 Mar 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd3RzVmNRUDhZMFpoTFRIZzVvTFQ1VUlZTGlxcklTb1hQd2IxUFFrdUd1a3lVb3JfSm02LUpDZ1ZDdUNybGRTME5fbzhRMEFmOUVHN2dkTXhkRHNvWE5weHlqSEdWU0lPSGVhNGRnRkRmS1dsRjV0SGt6Rl9IQklJd0ptVC13ejlmMUZESlAtUXFIWUk5NnJkNEJ4MW5jM1RiSUw0RzN0Vy1DekN5S1ZYZEw0QTJCcGM2WmsyS0FhYnl6M1QtM01qeGFCVkUtUWRuWGpNVE5kQjM5UW9faW1rNFNlRmp5ZGRNUzdtN1VYdkRrcHUybmY2OHZxUHpuZllIZzF3UFBLMjNLT3VzRnlUZGh4T05FRExndFHSAZ8CQVVfeXFMTV9EaWtlMG5sZ01RMXkzWHRzLWxHYk9IUklUczRDTzNKS1RaRUlTSFIxVUVMemdhVmppcXVVckprN2FiX1E5SFFHNHpzQTV1YVAzQl9vaU56ekVzX2RRdHktZTZxdWdqeUs4YkdBZkdJTEp1N1F2VUp0eFZKaTBGWHRVbk1VRUpZWG9va0dXUURoQm94TzZ5a1ZKWjJHTGpQQno2cXV1bVRjcmNla25MWTB0a19UYTB0UW9WRmVCYjJRcHdZWDFEbE9MU1NvTEQ3YXNHTnJGdnVSQTg3all2UlRmQnFZdjNYeHpkc0JWbFR4OWhFcmx5QktwbU9uOFFIb2sxQjU1cWR3a0x3ZXJibE9ZeEdNVDVKMEZtTVNtYlk?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 90
+            },
+            {
+              "title": "Bangalore Commute Time Soars As Hybrid Work Fuels Traffic Surge - BW Businessworld",
+              "about": "Bangalore Commute Time Soars As Hybrid Work Fuels Traffic Surge  BW Businessworld",
+              "publisher": "BW Businessworld",
+              "date": "Thu, 24 Jul 2025 07:57:18 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXhfV1RhbVp6VWlyTFYzNTF2MV9qd2pjbndzUXdpQVVqU2VKLWRWMVR2YjN2Qkt1SG0wTzdzRmhrSHlmakhhQ3F3WW1xWXg5Q0NRZmlCTzBUVDhScUo0djd1RUZtYV9SNHh6VFNUUnhwSU5JREtGRDlQekw2UG1uZVFKUkEyazhpUl80V2s1MDE4S3RrLW5YYm1KRldkVzR2d1hFcmVQQ0xxUEU?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 91
+            },
+            {
+              "title": "'Friend reached Dubai, I'm still stuck in Bengaluru's traffic': Viral post triggers laughter, frustration - Moneycontrol",
+              "about": "'Friend reached Dubai, I'm still stuck in Bengaluru's traffic': Viral post triggers laughter, frustration  Moneycontrol",
+              "publisher": "Moneycontrol",
+              "date": "Sun, 20 Jul 2025 10:18:56 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk9xSkJBcGd0RFB4OVlNMEpuc1ZodXMyVDQwSHpGakFGNmlHdGlqRG1vVHZqNE11VENiOXFIbDlsQmdZTzd5d1NQdG5QRDJwdDlGYzNrVzJyYmU0dnFrMjUxWkgybXJ0T0pBbkRfelB1R1BkSWF4cjJiYjVuWnFlT3lEX0lzSjBQdGR2YWZubENod1pmQkozS3VYSUtGN1JlRGJsZnN1V2VSMXZ2eVM4VnE3UDFyRmdYb1RoWG01MjhGNzdrMXJXWV9CSHlPZXdaUlZSb0hkNUFBNFhfb0x1ejZoTUo0eTVzV0RN0gHwAUFVX3lxTFA0dGRoakJzazRhLWdzRnpXSTlVbmxxVGVqU2psWk1rYWhyRk5hbEpVbzBYN1JqWEVVV1VlYjRXZkljSzVNa1hLbUExVVFzbm16MWdEQmIyRGFLY2hhODVyUkkzMDA1YmYzQUpPbmJPcTVzWW90YXFQTEUxblliR3lmZzN3aWEzUVBLVHpHRlZ3WEgtblB5aDk5b0RQdkNlaHVSdFJCTDk3cmFtT2dmQk9DUkZWZFZkQ0s2NDdSZTEtYmdMUzdCbXdqZ2cwWUp4RWxYTFJYeVV0YmFWcWhWZXBJWkFhbUN5dlJmSm1KVTBqVg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 92
+            },
+            {
+              "title": "‘Infra hasn’t kept up’: Bengaluru traffic in spotlight as Zerodha’s Nikhil Kamath grills top cops in WTF - The Times of India",
+              "about": "‘Infra hasn’t kept up’: Bengaluru traffic in spotlight as Zerodha’s Nikhil Kamath grills top cops in WTF  The Times of India",
+              "publisher": "The Times of India",
+              "date": "Tue, 13 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDcxb2hqemRucWduOENzR0ZVTkM0ejBHMktKX3JxQU1OYS1SWXgxRGU3TjhWZno5a2lOMXpNZ0doQVllZldqNnVFSUpRWklocTBmTWJRc3RWMlo0Rl9nQ0tBX2pZc1h1bVA5VXdwaml6cF9YV1UwZ1hSY19jMUlKWG1HMXdRc0F6eGRXUVoyTW5pNFJEQktuWm9qMkRNcWNVMmVlVlNINk1vZUYxOFlDaE5aYmNnUUlsd0FhZ25QS1RiTEMtSGQ5Yk5VbW9QbTNoQXQ3SGtnTlVzTzlyVWVydjdZWnZad3k1TmVhejZUelAxaExRS1lIZllnNEdfZ3IxWk5pZtIBigJBVV95cUxPejZCd2VrdUJlaUpRVkMzYkZVMTZfaGpfMGlabDF0WUhPbjN5S1lkNE80UTNTSndtaTNEazBiZ2lCQVZnc2VuVkV5Q2xSWTlrbURnaVV4MGlZVWRMV1lERFVXNUVIVTJNSUgyMVc4MjQ0X25qU1BLX2FqTXFoS245bEZmLU4tVGFEaTltYTh6aXBPNDE3N0NfUlctYndZNGIwd2lZRWZZNUxoNzJyZGVQMFlrVXk2ZGIxdTFrYTRLdEp2V0ZLcDgwRU9mZDJPX2xwX0RsdUhJQjREVV9Fa2x3V1Jvam5ISGtpSFA5d3NuR0J0ODVESzdMTVFYSTNFM3pRejlvZzF4RVhRQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 93
+            },
+            {
+              "title": "Bengaluru traffic police phase out PublicEye app - Deccan Herald",
+              "about": "Bengaluru traffic police phase out PublicEye app  Deccan Herald",
+              "publisher": "Deccan Herald",
+              "date": "Thu, 27 Mar 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXowVWI1NHJmSXcxcktxZ0lVaTR0M2x4OEt0Y3ZJSXZwNU5uZzlXWjRHQ3Q1TDRTTHdZeERBbmVfR0hhdWdmQnB4WUUxMUpLWDhmUk9pU2Z0Q3hTZDlDT3ZiSmxQc1JfSnVPUk5oeDlXNTk0UDFiWG1LWkJQUnF4TkJZTFBlcEpoajBmU1ZmelNWOWdRM1VBREkzNzVsVjRKNF80?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 94
+            },
+            {
+              "title": "EaseMyTrip co-founder stuck in Bengaluru traffic for 2 hours, pledges ₹1 crore to map chokepoints using AI - Mint",
+              "about": "EaseMyTrip co-founder stuck in Bengaluru traffic for 2 hours, pledges ₹1 crore to map chokepoints using AI  Mint",
+              "publisher": "Mint",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTW50OVBkN3c5NmRrMlFFTGlvUERnVHFJcXU3d19MRUNiTzlYQWZpcTYxLUJMWTJydkZhNzVLcjAteC1GNy1rMzZoUnlHY0hRTzFBZUJaWlFIYkJwVGJNYmdWTDZlYVVNZmFMY3B3ZHdnOXNVZ29NT3NjYXRuRDhaanRCT0ZnSkpMZ0o0VGRSYURQcXVnZ19wRjVVbG9OS0pyU2lEczlqb3VhTG1jOXN3czJOV1dCSll5TDVpQTNkczJEeGlJSkktNEVfdWFPSW9rME5kaTN5OTFCRmhjcUtpNmFOaFVjOTRYSFotQ05vRE53UdIB9wFBVV95cUxNYzFFNnAyS0hkb18tRUJtNG55eklmM3pVc3JFcW5zRVc3ejFxajhfQmhIbVRvTmRkZjJTcjFDdFVTM01XTk43dEtZR1VTSXVsRVh1ajBtMVdsVTVxWUlxaTdleW9hX2YxZXlmaEtMMWlDWFJPMDhqNVdKRVRveEtJaHFqRkhfMTNta3B3YTBKWnVOZzlqVmRfSXlJOEVlOG56akJZLUtqRF9oVGxQRjg5dnBiemNEVVdPVVhzcmFkY05KdElnOGUyVTRQUGVuSEl3UHF0M0F4UnN3TUZ1dW9LZ3ZlY3hEUkFaVnYtS1h6OUxZT1gwUS1v?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 95
+            },
+            {
+              "title": "Bengaluru Traffic Alert For July 1: Heavy Congestion on These Key Routes Today - Times Now",
+              "about": "Bengaluru Traffic Alert For July 1: Heavy Congestion on These Key Routes Today  Times Now",
+              "publisher": "Times Now",
+              "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2RnZnVFNHlkeXZHNWp0ZG9VTHp3bDM5Rm1lbU9kYUZncjZ5YUVpZ0pEdGd5R2hURlRRLTNUZGwxaVdoYzZtTGZHZ2EzV2duTDZZTkw2OXlWTGRIY3B0S0c3OC1zcEpVTUVTSnV3OXYtTW01Q1FMTnNnZ1VyaDFQMmVKbEtmamhXcEtmcDVWOFBEOE9wdHpzZjlleG1oLWVDUFl0bkZ2QkNnNWlLMjlRUUpkblhHdlByVmhPSXR5X0RUcU9FUzdselJKNU9fc2vSAdQBQVVfeXFMTUVRYXNRakxWNlVqQi1PLTdsVldoMVVhQUlaV2xlMVhaR1U0cmppNG9XMGNlTFBWVmUxZ01tY2Z6c1ZGU3o3eWRwQ0FqRG84SmotT0VlVDU0Y3JKWnZVekJkOTM1WkJqMmpFa2pLQkdPbzJNcG43emRHajFPNHNfZ2pETTR3REJ5R1JURUxCZEpKdDVaWE9GVmtXWVQ1VEs4Y2lPczhGTVY2VUFkTGMxa1FLU1B3N0YzSW13SVlWNlpHNllqcVpGYWR3VFVwZ1FrRDMwdGQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 96
+            },
+            {
+              "title": "If buses could fly: Hi-fi idea to fix traffic woes back on table - Bangalore Mirror",
+              "about": "If buses could fly: Hi-fi idea to fix traffic woes back on table  Bangalore Mirror",
+              "publisher": "Bangalore Mirror",
+              "date": "Tue, 24 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcTBGRWlEYVdGYWd5VXNQbUFTazJmN3ZFVFpPNnFaazJQcUdkOEtzYWROYlc5bXc4RmVfSUtmaUp0Zi1qZEZnM2pUMS1ZSEdWbDcyNGZFYkE3OVVOS0hIb3o4OGx1dzZqcDhQRnluLWpKTFhkMm9ieUJURzJfaWVJY0ItbG84ZXRoeExNVmhBNkI3X2RHYTdnQm9pc3lveDNjSVo3X25Ic2Jxai1RRmNKT1MwSllET1kySm5hWE1fbHZTR0c1NEJRNUJWNkNxZWRnay1ybjdCUEJVa2VF0gHiAUFVX3lxTE8wd3hTRjdKdEdGMU93R3lfM0F2SDdHWFdqOVY2SzZOaFJKcEd4VEZCOTdqRXZ0ZWxxc0tLd3FXQThUQmVNa1d2NTR1THJyMHF5LTJ1YnNIYUZIbW1ucjg2bkE0bDZ0dHBlQjNMYnhVaVZnN1JyYlN0emZDYWFOMkE2Vk1yWEIxZnBBVW5kTWtvTkFlNWVJSzR1OHBGV1B1anJtTU5aWjhmMzNnZVlINWl5YWc3dWhpNzA5cExJOWNwTC1lM1RIM2piOC1QZlE5RmtGb2o4MExBeGRZbTh2bXlzckE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 97
+            },
+            {
+              "title": "Broken infrastructure: Bengaluru’s traffic mayhem set to get worse when schools reopen - The Times of India",
+              "about": "Broken infrastructure: Bengaluru’s traffic mayhem set to get worse when schools reopen  The Times of India",
+              "publisher": "The Times of India",
+              "date": "Mon, 26 May 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFVmMmlmMWhoQ0tMY0lValV4emVjYndXcnR2UWlDdU1Dc3pwc1hyZzRTdmxMdWF0S01aMHU4SXhPMjRSdVpad1pka1JPdFJFcVRXR2FFUGhPeEVURUVZQXp2QVFqWlc5cnJ1STh1eEJobU9Wa3psNTFiZjhkNUpSNjZrbm96clZqTjF5bFRTSUJYMHNxR2pDcnB3d21rZ2owSHBzdGIzeDhDa2p2U3BEMEUwaEQ0MGp0ZzZfQTd5U2lEQXpnRUsxOTBwRmdhcEdlMGtTZ2tkNmk4UURVYjBSdXo1aUxHMFl4eEFjZkdWcGhrMWfSAfgBQVVfeXFMTkN6ZlhLeFBkM3F0M0ZUeXBrc2JQclpZVnhJSy05MTNaZ0h6cUdMbVhPWWZ3ZEdxa0gwaXZ1VFNGNnZ1WXNRSlJhZlhoSzlCZnNlYktuSzVuT2NneXRybmhLQkZFUFE4bWRxekdFZU1QV0Rud0pHQ3N5UV9xeWc0YTRwc1NDeExwWWFXbHljNU4zR0FRaG5oQmRvV1RZa01lMExIY0VPTkJwSldnZGRxdWFJYVZOVXcwNjdILU1mZDlUb2JJYTJYc192MjdJUkRGSjAyS0ZCa1BENWNaVEljaWJILUtVaGhsUlcwSmNlZ1JQbkhRcW9GUjI?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 98
+            },
+            {
+              "title": "BJP slams Karnataka Dy CM Shivakumar over ‘Bengaluru traffic’ remarks, asks him to step down - The Indian Express",
+              "about": "BJP slams Karnataka Dy CM Shivakumar over ‘Bengaluru traffic’ remarks, asks him to step down  The Indian Express",
+              "publisher": "The Indian Express",
+              "date": "Sat, 22 Feb 2025 08:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUdQUUdsemk5SWpaTjI0WFp2SU41ck85UDFOejF5a0Y5ZlNVQWZjbGpBeEI4ZzlUZDQxZTU4c2ZLeFYyWDNYNzk2VC1OaUc0UWtTNWM2RVNZYnVtQjk3WkJuNW9jRXUxT0F4UmZRX0tsWUxUa05vX2xUcDRyMmJSUVJqaUZMcGhGNUliYlBVb0lSbjUtTVhWYkMwLVBCNy1XQi1pSU9oRVVmUm5lcmRYdG5ua1VRS3lBMy1NaUE5TzVuZ9IByAFBVV95cUxOSkVPRnc4QkhHZTd1eUI4YllfLUVDY0hiSHlIaEJXai1qRkZkMjBidzFHcDI0aEJFSUxoRUNkTU5vUlNYb1E5Y2UyMFZrTDBZWV9wZm1FaHZCb1VmR0RhSlNHREpLMUVydWxCUmlwc3BRRjUySkN4T0I5SFJkMTVESFFMVG9xYnpETWttXzIzT0FCZVBjLVQ3NWRBaXFpSEVBX1djN3ozcXdtSnhfV0FTSnhiSTBNa05vdnQxZGhvT1hQckdEUl9ubw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 99
+            }
+          ],
+          "article_count": 95,
+          "sentiment_scores": [
+            "neutral",
+            "neutral",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "positive",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "neutral",
+            "negative",
+            "neutral",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative",
+            "negative"
+          ],
+          "sources": [
+            "Deccan Herald",
+            "Indian Startup News",
+            "India Today",
+            "The Times of India",
+            "India TV News",
+            "Bangalore Mirror",
+            "The Economic Times",
+            "Mint",
+            "Tribune India",
+            "MSN",
+            "BW Businessworld",
+            "Mathrubhumi English",
+            "Curly Tales",
+            "Storyboard18",
+            "NDTV",
+            "Telegraph India",
+            "Hindustan Times",
+            "Moneycontrol",
+            "The Logical Indian",
+            "Business Standard",
+            "The Hindu",
+            "News18",
+            "financialexpress.com",
+            "The Indian Express",
+            "Team-BHP",
+            "Times Now"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 1,
+            "negative": 71,
+            "neutral": 23
+          }
+        }
+      }
+    },
+    "bellandur": {
+      "place_name": "Bellandur",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 1
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 1,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "sources": [
+          "Hindustan Times"
+        ],
+        "recent_articles": [
+          {
+            "title": "Prestige Group to build 1.5-km flyover in Bengaluru linking Bellandur to ORR to ease traffic congestion: Report - Hindustan Times",
+            "about": "Prestige Group to build 1.5-km flyover in Bengaluru linking Bellandur to ORR to ease traffic congestion: Report  Hindustan Times",
+            "publisher": "Hindustan Times",
+            "date": "Mon, 07 Jul 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMXdqM3FXa2FKRFB3WVRqME02U0VCWGdOUVUxdHdRaVpGZkJ3TUQyQ09DZmJPa3hxV3dNUVhRZzh0ajVLUThZVi1sUlBmMlFsV3BGX0JuMDMzSExVVkIwZlVkOGNXcHhDamVHX0FPaFlGUXZReFUwNkZlYV85WjhYQU5ITkhDRHVOSUcxcUlLTWNRSHp4X1FrRkJnRkhBNG9BazVnXy1KbUdqYnJPOUhLWlVHSm5RMEtLVEp0dEE1RlNVRWZEbkczQ3Bzbl8yUlV5Ni12MzM5ODh3cG8tVDhtNEI3VElwZDZZLVZrRzFXVlloVDA5YVMyend5a2dmZzlyN2Z2Z2VYRlE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 64
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Bellandur",
+          "articles": [
+            {
+              "title": "Prestige Group to build 1.5-km flyover in Bengaluru linking Bellandur to ORR to ease traffic congestion: Report - Hindustan Times",
+              "about": "Prestige Group to build 1.5-km flyover in Bengaluru linking Bellandur to ORR to ease traffic congestion: Report  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Mon, 07 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMXdqM3FXa2FKRFB3WVRqME02U0VCWGdOUVUxdHdRaVpGZkJ3TUQyQ09DZmJPa3hxV3dNUVhRZzh0ajVLUThZVi1sUlBmMlFsV3BGX0JuMDMzSExVVkIwZlVkOGNXcHhDamVHX0FPaFlGUXZReFUwNkZlYV85WjhYQU5ITkhDRHVOSUcxcUlLTWNRSHp4X1FrRkJnRkhBNG9BazVnXy1KbUdqYnJPOUhLWlVHSm5RMEtLVEp0dEE1RlNVRWZEbkczQ3Bzbl8yUlV5Ni12MzM5ODh3cG8tVDhtNEI3VElwZDZZLVZrRzFXVlloVDA5YVMyend5a2dmZzlyN2Z2Z2VYRlE?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 64
+            }
+          ],
+          "article_count": 1,
+          "sentiment_scores": [
+            "negative"
+          ],
+          "sources": [
+            "Hindustan Times"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+          }
+        }
+      }
+    },
+    "marathahalli": {
+      "place_name": "Marathahalli",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 2
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 2,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0
+        },
+        "sources": [
+          "Times Now"
+        ],
+        "recent_articles": [
+          {
+            "title": "Bengaluru Traffic Alert: Heavy Congestion Near Marathahalli and Roopena Agrahara - Check Alternate Routes - Times Now",
+            "about": "Bengaluru Traffic Alert: Heavy Congestion Near Marathahalli and Roopena Agrahara - Check Alternate Routes  Times Now",
+            "publisher": "Times Now",
+            "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3NIQURQckw2SjhZSzh1bUxWdUZPV3VaR0had3dGTXQ4YTdjN3JNRGpFWGNTbmlmWFpNU0p0aUdBSlZNNUJ5Z3RMWFJEZ1YzTnNtZmsxNl9WUWxHMmdybFlZYlNKeU9FYTA4VzN4Z3FlSVV3ZFhKWUZzcUNEbU5DRHVqUEFLYXlCTjJtLU02Y0E1bFo5Y1JqNzVzN2hrbFVEenNFenBKbnJwQU5Odm5FeWpXdWZwQS0zdmQyMGZWUURra0NlU3FRSUk3QjhkbG1BYTVNRDBPd0lOeXFnNGY4Y2RRZTQtLXBRZDJoQ2dhQlHSAfYBQVVfeXFMT3ExUHZqcmlzUEJHdGowSHBKbVQ0Z1hLQ1JEd2N1T1pBTWpGLVFpMnNaZlZEOVBzRm1QQTloQ0NabWl2bDNkbExCWktkQ0x2NTJpbHd4V2drMC0zZmNxaFlRMmUzZDhSalVlMWN0OVA0cjRDWjRTeVJhSUNTc1RmY1htMlgtc0JOa21tVmROQjM4elRRYkh4ZnMzdmpUNUpHMHBQcEEwcnNRMkd0d2UtczlXTDV4M0dUcUNSQzU4X2ZXQ0FueGlLVG5zMThFSE5uTmFlR3ZzS2tZRXdRb3RaXzRGNWFDYnRDa1FlS1VzOFlsTjJOaWJn?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 62
+          },
+          {
+            "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+            "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+            "publisher": "Times Now",
+            "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 70
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Marathahalli",
+          "articles": [
+            {
+              "title": "Bengaluru Traffic Alert: Heavy Congestion Near Marathahalli and Roopena Agrahara - Check Alternate Routes - Times Now",
+              "about": "Bengaluru Traffic Alert: Heavy Congestion Near Marathahalli and Roopena Agrahara - Check Alternate Routes  Times Now",
+              "publisher": "Times Now",
+              "date": "Mon, 14 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3NIQURQckw2SjhZSzh1bUxWdUZPV3VaR0had3dGTXQ4YTdjN3JNRGpFWGNTbmlmWFpNU0p0aUdBSlZNNUJ5Z3RMWFJEZ1YzTnNtZmsxNl9WUWxHMmdybFlZYlNKeU9FYTA4VzN4Z3FlSVV3ZFhKWUZzcUNEbU5DRHVqUEFLYXlCTjJtLU02Y0E1bFo5Y1JqNzVzN2hrbFVEenNFenBKbnJwQU5Odm5FeWpXdWZwQS0zdmQyMGZWUURra0NlU3FRSUk3QjhkbG1BYTVNRDBPd0lOeXFnNGY4Y2RRZTQtLXBRZDJoQ2dhQlHSAfYBQVVfeXFMT3ExUHZqcmlzUEJHdGowSHBKbVQ0Z1hLQ1JEd2N1T1pBTWpGLVFpMnNaZlZEOVBzRm1QQTloQ0NabWl2bDNkbExCWktkQ0x2NTJpbHd4V2drMC0zZmNxaFlRMmUzZDhSalVlMWN0OVA0cjRDWjRTeVJhSUNTc1RmY1htMlgtc0JOa21tVmROQjM4elRRYkh4ZnMzdmpUNUpHMHBQcEEwcnNRMkd0d2UtczlXTDV4M0dUcUNSQzU4X2ZXQ0FueGlLVG5zMThFSE5uTmFlR3ZzS2tZRXdRb3RaXzRGNWFDYnRDa1FlS1VzOFlsTjJOaWJn?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 62
+            },
+            {
+              "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+              "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+              "publisher": "Times Now",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 70
+            }
+          ],
+          "article_count": 2,
+          "sentiment_scores": [
+            "negative",
+            "negative"
+          ],
+          "sources": [
+            "Times Now"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 2,
+            "neutral": 0
+          }
+        }
+      }
+    },
+    "outer ring road": {
+      "place_name": "Outer Ring Road",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 1
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 1,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "sources": [
+          "Hindustan Times"
+        ],
+        "recent_articles": [
+          {
+            "title": "Bengaluru Traffic Police issues advisory amid heavy congestion on Outer Ring Road - Hindustan Times",
+            "about": "Bengaluru Traffic Police issues advisory amid heavy congestion on Outer Ring Road  Hindustan Times",
+            "publisher": "Hindustan Times",
+            "date": "Thu, 26 Jun 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWGRBUE0tNmFWWjdaSnFURlk0LXlOaUpqdXltejRBYUZKVTdFRHVNMUpqQ1JqNU9lb3AwUm9jNmRiaVgzR3I0TnQyNVp4VDdoTUJEMG05YV95SWtXWTB5STFUOUZ1TGN1UWdGYWxMUnY1N3RfcG5vVkJ4V2RVamhTdElRa2hjOU90ZXM0ZGRWX05qMk9maXJZdkFFQnVYWWh6YjVVLTBWNnNnUG5waVBHNVFSbThUOTlyNk5jT1lEYWZhVmN2MFZzelVMck5HVTR5SHpQOGg2b2piNW1zZjQ0aHU3OFlQRjJOZ1dZ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 73
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Outer Ring Road",
+          "articles": [
+            {
+              "title": "Bengaluru Traffic Police issues advisory amid heavy congestion on Outer Ring Road - Hindustan Times",
+              "about": "Bengaluru Traffic Police issues advisory amid heavy congestion on Outer Ring Road  Hindustan Times",
+              "publisher": "Hindustan Times",
+              "date": "Thu, 26 Jun 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWGRBUE0tNmFWWjdaSnFURlk0LXlOaUpqdXltejRBYUZKVTdFRHVNMUpqQ1JqNU9lb3AwUm9jNmRiaVgzR3I0TnQyNVp4VDdoTUJEMG05YV95SWtXWTB5STFUOUZ1TGN1UWdGYWxMUnY1N3RfcG5vVkJ4V2RVamhTdElRa2hjOU90ZXM0ZGRWX05qMk9maXJZdkFFQnVYWWh6YjVVLTBWNnNnUG5waVBHNVFSbThUOTlyNk5jT1lEYWZhVmN2MFZzelVMck5HVTR5SHpQOGg2b2piNW1zZjQ0aHU3OFlQRjJOZ1dZ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 73
+            }
+          ],
+          "article_count": 1,
+          "sentiment_scores": [
+            "negative"
+          ],
+          "sources": [
+            "Hindustan Times"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+          }
+        }
+      }
+    },
+    "sarjapur": {
+      "place_name": "Sarjapur",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 1
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 1,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "sources": [
+          "Times Now"
+        ],
+        "recent_articles": [
+          {
+            "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+            "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+            "publisher": "Times Now",
+            "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 70
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Sarjapur",
+          "articles": [
+            {
+              "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+              "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+              "publisher": "Times Now",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 70
+            }
+          ],
+          "article_count": 1,
+          "sentiment_scores": [
+            "negative"
+          ],
+          "sources": [
+            "Times Now"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+          }
+        }
+      }
+    },
+    "sarjapur road": {
+      "place_name": "Sarjapur Road",
+      "coordinates": {
+        "lat": "N/A",
+        "lng": "N/A"
+      },
+      "data_availability": {
+        "has_traffic_data": false,
+        "has_news_data": true,
+        "traffic_source": "None",
+        "news_articles_count": 1
+      },
+      "traffic_analysis": {
+        "status": "No traffic data available"
+      },
+      "news_analysis": {
+        "article_count": 1,
+        "overall_sentiment": "negative",
+        "sentiment_breakdown": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "sources": [
+          "Times Now"
+        ],
+        "recent_articles": [
+          {
+            "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+            "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+            "publisher": "Times Now",
+            "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+            "source": "Traffic News",
+            "sentiment": "negative",
+            "article_index": 70
+          }
+        ]
+      },
+      "ai_comprehensive_analysis": {
+        "ai_comprehensive_analysis": "Error analyzing data: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.",
+        "error": true
+      },
+      "raw_data": {
+        "traffic": {},
+        "news": {
+          "type": "news",
+          "place_name": "Sarjapur Road",
+          "articles": [
+            {
+              "title": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory - Times Now",
+              "about": "Bengaluru Traffic Alert July 2: Heavy Rush on Sarjapur Road and Marathahalli Stretch - Advisory  Times Now",
+              "publisher": "Times Now",
+              "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHQ2S2hrXzZxWWgwRnpfbktQTVJVSE9ic3I4dUJRNlhNOEhKaGpaRTlYT0NJVkJVMlFMT1RsSUZrWDUtaVZJQWZJRjJaVFNFWlEyQjlkUkV4UU9fUlZqOUY0d1NsX21uLXBpbUVBSzFjVFpjMW1mSGVEYThFLXhZd0x3MnUycFE0QVU3WUVCVzVqaDNzNFF0REVRVmo1Y21tVDhEeklQSzh5VjBTaHh6RkxCNFpuTk5mcy1CLTQ0MlVHMmlGUFB6cnBYZlV6VGpEaExYdUFMUG5mbkc3Q1RUOHVrTdIB6AFBVV95cUxPcmNMMnFQVC1tREdXX0lmLVkzd3NCM0ZubEZzWURYcDNWdmtKVlVDaWlyZW9xZXZGbWthb3Vfbm9COWJpOWVTb0tINGozdTFyUnd0Z0NUMzNWc21oeXRyWE44OFRTV2EwaVhpZ1h6TTR2QlVBaGNKX2hvcFJKT0RjMEZzWE0xeTAtT1ZXVTRrN2JtY3Bhckl6Y2JnUHliLTB3N3dwdHlJMmdwS0EtSGpWTEFhQkNSMWNHNXlkUmRlR1dIbkRMbUNSTVZmLXRMSGlBLUIzZV90Yzg4UmEwOVYxaUUwdlMxVzRJ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+              "source": "Traffic News",
+              "sentiment": "negative",
+              "article_index": 70
+            }
+          ],
+          "article_count": 1,
+          "sentiment_scores": [
+            "negative"
+          ],
+          "sources": [
+            "Times Now"
+          ],
+          "overall_sentiment": "negative",
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+          }
+        }
+      }
+    }
+  },
+  "summary_statistics": {
+    "total_news_articles": 100,
+    "total_traffic_locations": 0,
+    "analysis_coverage": "7 unique locations analyzed"
+  },
+  "overall_city_analysis": "Error generating overall analysis: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments."
+}

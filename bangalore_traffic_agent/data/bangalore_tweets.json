@@ -1,0 +1,24 @@
+{
+  "twitter": {
+    "Banashankari": {
+      "coordinates": {
+        "latitude": 12.9254533,
+        "longitude": 77.546757
+      },
+      "summary": "Banashankari frequently experiences traffic congestion and delays caused by ongoing construction, metro work, accidents, peak hour jams, and festival diversions.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Banashankari should anticipate significant traffic delays and congestion; plan alternative routes and allow extra travel time due to ongoing construction, incidents, and various road activities."
+    },
+    "Basavanagudi": {
+      "coordinates": {
+        "latitude": 12.9405997,
+        "longitude": 77.5737633
+      },
+      "summary": "Basavanagudi is experiencing recurring traffic slowdowns and diversions due to ongoing metro construction and festival processions, though minor incidents are quickly resolved.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Basavanagudi should expect traffic delays and diversions due to ongoing metro work and festival processions; plan alternative routes and allow extra travel time."
+    }
+  }
+}

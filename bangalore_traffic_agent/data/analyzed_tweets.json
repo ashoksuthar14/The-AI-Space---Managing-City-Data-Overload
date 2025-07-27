@@ -1,0 +1,183 @@
+
+  "twitter" {
+    "Banashankari": {
+      "coordinates": {
+        "latitude": 12.9254533,
+        "longitude": 77.546757
+      },
+      "summary": "Banashankari frequently experiences traffic congestion and delays caused by ongoing construction, metro work, accidents, peak hour jams, and festival diversions.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Banashankari should anticipate significant traffic delays and congestion; plan alternative routes and allow extra travel time due to ongoing construction, incidents, and various road activities."
+    },
+    "Basavanagudi": {
+      "coordinates": {
+        "latitude": 12.9405997,
+        "longitude": 77.5737633
+      },
+      "summary": "Basavanagudi is experiencing recurring traffic slowdowns and diversions due to ongoing metro construction and festival processions, though minor incidents are quickly resolved.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Basavanagudi should expect traffic delays and diversions due to ongoing metro work and festival processions; plan alternative routes and allow extra travel time."
+    },
+    "Bellandur": {
+      "coordinates": {
+        "latitude": 12.9304278,
+        "longitude": 77.678404
+      },
+      "summary": "Bellandur traffic is frequently disrupted by various issues including congestion, waterlogging, accidents, and diversions.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Bellandur should expect frequent delays due to congestion, waterlogging, accidents, and diversions; plan routes and commute times accordingly."
+    },
+    "Central Bangalore": {
+      "coordinates": {
+        "latitude": 12.9485134,
+        "longitude": 77.67651839999999
+      },
+      "summary": "",
+      "sentimental_analysis": "neutral",
+      "priority": "low",
+      "alert": ""
+    },
+    "Electronic City": {
+      "coordinates": {
+        "latitude": 12.8452145,
+        "longitude": 77.6601695
+      },
+      "summary": "Electronic City is experiencing frequent and widespread traffic congestion and delays caused by heavy traffic at the main junction, ongoing metro work, waterlogging, and occasional accidents.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Expect frequent traffic delays in Electronic City due to congestion, accidents, waterlogging, and metro work; commuters are advised to plan routes accordingly."
+    },
+    "Hebbal": {
+      "coordinates": {
+        "latitude": 13.0353557,
+        "longitude": 77.59878739999999
+      },
+      "summary": "Hebbal consistently experiences significant traffic congestion and delays due to ongoing construction, metro work, accidents, and diversions, urging commuters to use alternative routes.",
+      "sentimental_analysis": "negative",
+      "priority": "high",
+      "alert": "Commuters in Hebbal should expect severe traffic delays due to ongoing construction, metro work, and accidents; plan alternative routes and allow extra travel time."
+    },
+    "Hsr Layout": {
+      "coordinates": {
+        "latitude": 12.9121181,
+        "longitude": 77.6445548
+      },
+      "summary": "HSR Layout is experiencing multiple traffic disruptions including heavy congestion, waterlogging, and ongoing construction, significantly impacting commuter travel, though a minor collision has been cleared.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Expect significant traffic delays in HSR Layout due to heavy congestion, waterlogging, and ongoing construction; plan alternative routes if possible."
+    },
+    "Indiranagar": {
+      "coordinates": {
+        "latitude": 12.9783692,
+        "longitude": 77.6408356
+      },
+      "summary": "Indiranagar is experiencing frequent traffic disruptions and delays primarily due to multiple accidents and ongoing construction/metro work, advising commuters to plan accordingly.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Expect significant traffic delays and partial road blocks in Indiranagar due to multiple accidents and ongoing construction; commuters are advised to plan travel accordingly or use alternative routes."
+    },
+    "Jayanagar": {
+      "coordinates": {
+        "latitude": 12.9308107,
+        "longitude": 77.58385770000001
+      },
+      "summary": "",
+      "sentimental_analysis": "neutral",
+      "priority": "low",
+      "alert": ""
+    },
+    "Kengeri": {
+      "coordinates": {
+        "latitude": 12.8996676,
+        "longitude": 77.4826837
+      },
+      "summary": "Kengeri is experiencing significant traffic congestion and diversions primarily due to ongoing construction work and festival processions.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Expect significant traffic delays and diversions in Kengeri due to ongoing construction and festival processions. Plan your travel accordingly and consider alternative routes to avoid peak hour jams."
+    },
+    "Koramangala": {
+      "coordinates": {
+        "latitude": 12.9352403,
+        "longitude": 77.624532
+      },
+      "summary": "",
+      "sentimental_analysis": "neutral",
+      "priority": "low",
+      "alert": ""
+    },
+    "MG Road": {
+      "coordinates": {
+        "latitude": 12.9746905,
+        "longitude": 77.6094613
+      },
+      "summary": "Heavy traffic congestion is reported on MG Road near the main junction.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Heavy traffic congestion on MG Road near the main junction. Please avoid this route."
+    },
+    "Malleswaram": {
+      "coordinates": {
+        "latitude": 13.0055113,
+        "longitude": 77.5692358
+      },
+      "summary": "",
+      "sentimental_analysis": "neutral",
+      "priority": "low",
+      "alert": ""
+    },
+    "Marathahalli": {
+      "coordinates": {
+        "latitude": 12.956924,
+        "longitude": 77.701127
+      },
+      "summary": "Marathahalli is experiencing significant traffic congestion and diversions due to festival processions and peak hour jams, with commuters advised to use alternative routes.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Expect traffic diversions due to festival processions and peak hour congestion in Marathahalli. Commuters are advised to use alternative routes to avoid delays."
+    },
+    "Mg Road": {
+      "coordinates": {
+        "latitude": 12.9746905,
+        "longitude": 77.6094613
+      },
+      "summary": "MG Road is experiencing frequent and varied traffic disruptions, including congestion, accidents, construction, waterlogging, and special event diversions, leading to significant delays.",
+      "sentimental_analysis": "negative",
+      "priority": "high",
+      "alert": "MG Road is experiencing severe traffic disruptions; expect significant delays due to accidents, construction, waterlogging, and diversions. Commuters are advised to avoid the area or use alternative routes."
+    },
+    "Rajajinagar": {
+      "coordinates": {
+        "latitude": 12.9981732,
+        "longitude": 77.55304459999999
+      },
+      "summary": "Rajajinagar is experiencing frequent and diverse traffic disruptions, including heavy congestion, construction-related slowdowns, waterlogging, accidents, and festival-related diversions.",
+      "sentimental_analysis": "negative",
+      "priority": "high",
+      "alert": "Expect significant traffic delays and diversions in Rajajinagar due to congestion, ongoing construction, waterlogging, and a recent accident; use alternative routes and plan travel accordingly."
+    },
+    "Vijayanagar": {
+      "coordinates": {
+        "latitude": 12.975596,
+        "longitude": 77.53538809999999
+      },
+      "summary": "Traffic in Vijayanagar is experiencing various disruptions including accidents, waterlogging, and construction, leading to delays and slow movement, though some areas report clear conditions.",
+      "sentimental_analysis": "negative",
+      "priority": "moderate",
+      "alert": "Commuters in Vijayanagar should expect delays due to accidents, waterlogging, and ongoing construction; consider alternative routes where possible."
+    },
+    "Whitefield": {
+      "coordinates": {
+        "latitude": 12.9698196,
+        "longitude": 77.7499721
+      },
+      "summary": "Traffic in Whitefield is highly variable, experiencing frequent congestion due to metro work, peak hours, and specific junctions, alongside critical alerts for waterlogging, despite occasional periods of smooth flow and resolved incidents.",
+      "sentimental_analysis": "negative",
+      "priority": "high",
+      "alert": "ALERT Whitefield: Waterlogging and heavy congestion are causing significant delays. Exercise caution and consider alternative routes."
+    }
+  }
