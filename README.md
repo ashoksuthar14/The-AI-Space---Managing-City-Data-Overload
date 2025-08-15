@@ -4,6 +4,8 @@
 
 [Website Link](https://studio--nammaroute-navigator-6xdjf.us-central1.hosted.app/)
 
+[Video Demo](https://drive.google.com/file/d/1W4N-JwjbRU0niTAWjVXm-XCYSszpD9em/view?usp=sharing)
+
 
 ## 📖 Overview
 
